@@ -433,13 +433,15 @@
 
   } else if (isIOS) {
     // iOS: mostrar todos los botones
-    // Google Calendar: intenta abrir app, fallback a web
+    // Google Calendar: forzar apertura en Chrome para que intercepte webcal://
     gcalBtn.addEventListener('click', function(e) {
       e.preventDefault();
-      window.location = 'webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics';
-      setTimeout(() => {
-        window.open('https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fjuanmanuelalias-dev.github.io%2Fmundial-2026%2FMundial_FIFA_2026_v4.ics', '_blank');
-      }, 1500);
+      const webcal = 'webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics';
+      // Intentar abrir en Chrome (si está instalado)
+      const chromeURL = webcal.replace('webcal://', 'googlechrome://');
+      window.location = chromeURL;
+      // Fallback: si Chrome no está, abrir webcal:// normal después de 1s
+      setTimeout(() => { window.location = webcal; }, 1000);
     });
 
   } else {
