@@ -1,0 +1,1257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mundial 2026//FIFA World Cup 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏆 Mundial 2026
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Todos los partidos del Mundial FIFA 2026
+BEGIN:VEVENT
+UID:7465aff6-b73d-4942-836b-0b4853e92abd@wc2026
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:🟦 México vs Sudáfrica | Grupo A
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ México vs Sudáfrica\n📋 Grupo A\n🏟️ Estadio Azteca\n📍 Ciudad de México, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 11/06/2026 16:00
+LOCATION:Estadio Azteca\, Ciudad de México, México
+CATEGORIES:Grupo A
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:28892fea-7fc9-4cf7-979c-ddfae7055756@wc2026
+DTSTART:20260611T020000Z
+DTEND:20260611T040000Z
+SUMMARY:🟦 Corea del Sur vs Chequia | Grupo A
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Corea del Sur vs Chequia\n📋 Grupo A\n🏟️ Estadio Akron\n📍 Zapopan, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 10/06/2026 23:00
+LOCATION:Estadio Akron\, Zapopan, México
+CATEGORIES:Grupo A
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a79690d0-e973-4932-aae0-373da2077c03@wc2026
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:🟡 🟦 Chequia vs Sudáfrica | Grupo A
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Chequia vs Sudáfrica\n📋 Grupo A\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/06/2026 13:00
+LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
+CATEGORIES:Grupo A
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86487f2f-9725-4fd3-ad11-df197d6e89f2@wc2026
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:🟦 México vs Corea del Sur | Grupo A
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ México vs Corea del Sur\n📋 Grupo A\n🏟️ Estadio Akron\n📍 Zapopan, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/06/2026 22:00
+LOCATION:Estadio Akron\, Zapopan, México
+CATEGORIES:Grupo A
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d8098a0-0779-4034-befa-27bec66f8d63@wc2026
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:🟦 Chequia vs México | Grupo A
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Chequia vs México\n📋 Grupo A\n🏟️ Estadio Azteca\n📍 Ciudad de México, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 22:00
+LOCATION:Estadio Azteca\, Ciudad de México, México
+CATEGORIES:Grupo A
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a9575d-701a-494b-a525-b443a259c18b@wc2026
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:🟦 Sudáfrica vs Corea del Sur | Grupo A
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Sudáfrica vs Corea del Sur\n📋 Grupo A\n🏟️ Estadio BBVA\n📍 Monterrey, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 22:00
+LOCATION:Estadio BBVA\, Monterrey, México
+CATEGORIES:Grupo A
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:65079e77-1280-4139-ab87-7b49ee4329d4@wc2026
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:🟩 Canadá vs Bosnia-Herzegovina | Grupo B
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Canadá vs Bosnia-Herzegovina\n📋 Grupo B\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 12/06/2026 16:00
+LOCATION:BMO Field\, Toronto, Canadá
+CATEGORIES:Grupo B
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:39dde513-22a8-40fe-a137-8a7b5148d4c0@wc2026
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:🟩 Qatar vs Suiza | Grupo B
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Qatar vs Suiza\n📋 Grupo B\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 13/06/2026 16:00
+LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
+CATEGORIES:Grupo B
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:15bc9264-9244-4a76-8527-803d586efb9c@wc2026
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:🟩 Suiza vs Bosnia-Herzegovina | Grupo B
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Suiza vs Bosnia-Herzegovina\n📋 Grupo B\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/06/2026 16:00
+LOCATION:SoFi Stadium\, Inglewood, EE.UU.
+CATEGORIES:Grupo B
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:481068e8-7318-440c-becc-914815c9598c@wc2026
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:🟩 Canadá vs Qatar | Grupo B
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Canadá vs Qatar\n📋 Grupo B\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/06/2026 19:00
+LOCATION:BC Place\, Vancouver, Canadá
+CATEGORIES:Grupo B
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:17773365-fb36-4a56-b253-e33eb500fb86@wc2026
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:🟡 🟩 Suiza vs Canadá | Grupo B
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Suiza vs Canadá\n📋 Grupo B\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 16:00
+LOCATION:BC Place\, Vancouver, Canadá
+CATEGORIES:Grupo B
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e122ee-c65f-434b-8bfb-590fa8c8e703@wc2026
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:🟡 🟩 Bosnia-Herzegovina vs Qatar | Grupo B
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Bosnia-Herzegovina vs Qatar\n📋 Grupo B\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 16:00
+LOCATION:Lumen Field\, Seattle, EE.UU.
+CATEGORIES:Grupo B
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0e8ffe87-9a2e-41b1-8530-176e7487c133@wc2026
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:🟨 Brasil vs Marruecos | Grupo C
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Brasil vs Marruecos\n📋 Grupo C\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 13/06/2026 19:00
+LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
+CATEGORIES:Grupo C
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a11de086-17a8-4ea8-a37f-3f3e79d3c039@wc2026
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:🟡 🟨 Haití vs Escocia | Grupo C
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Haití vs Escocia\n📋 Grupo C\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 13/06/2026 22:00
+LOCATION:Gillette Stadium\, Foxborough, EE.UU.
+CATEGORIES:Grupo C
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:33ada724-392e-4814-b411-ebc951827128@wc2026
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:🟨 Escocia vs Marruecos | Grupo C
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Escocia vs Marruecos\n📋 Grupo C\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 19/06/2026 19:00
+LOCATION:Gillette Stadium\, Foxborough, EE.UU.
+CATEGORIES:Grupo C
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:98cde64f-7e9d-4528-b39d-d6ee3b1d49a9@wc2026
+DTSTART:20260620T003000Z
+DTEND:20260620T023000Z
+SUMMARY:🟡 🟨 Brasil vs Haití | Grupo C
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Brasil vs Haití\n📋 Grupo C\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 19/06/2026 21:30
+LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
+CATEGORIES:Grupo C
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9821569b-3471-4585-ba2c-595676de4546@wc2026
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:🟨 Escocia vs Brasil | Grupo C
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Escocia vs Brasil\n📋 Grupo C\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 19:00
+LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
+CATEGORIES:Grupo C
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0446b1e6-cb90-4b28-920a-15ba6a394620@wc2026
+DTSTART:20260624T220000Z
+DTEND:20260625T000000Z
+SUMMARY:🟡 🟨 Marruecos vs Haití | Grupo C
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Marruecos vs Haití\n📋 Grupo C\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 19:00
+LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
+CATEGORIES:Grupo C
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10235391-2e74-4507-a991-96d7db70dd7f@wc2026
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:🟧 EE.UU. vs Paraguay | Grupo D
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ EE.UU. vs Paraguay\n📋 Grupo D\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 12/06/2026 22:00
+LOCATION:SoFi Stadium\, Inglewood, EE.UU.
+CATEGORIES:Grupo D
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:799fbb63-908f-4e12-9d56-51c4ecb2ff49@wc2026
+DTSTART:20260614T160000Z
+DTEND:20260614T180000Z
+SUMMARY:🟡 🟧 Australia vs Türkiye | Grupo D
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Australia vs Türkiye\n📋 Grupo D\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 13:00
+LOCATION:BC Place\, Vancouver, Canadá
+CATEGORIES:Grupo D
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73357e05-4844-440b-8b58-0adbe0d23c8f@wc2026
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:🟧 EE.UU. vs Australia | Grupo D
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ EE.UU. vs Australia\n📋 Grupo D\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 19/06/2026 16:00
+LOCATION:Lumen Field\, Seattle, EE.UU.
+CATEGORIES:Grupo D
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1b6ff1a3-8cad-4b82-9f75-f4e82b7a92c9@wc2026
+DTSTART:20260620T030000Z
+DTEND:20260620T050000Z
+SUMMARY:🟧 Türkiye vs Paraguay | Grupo D
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Türkiye vs Paraguay\n📋 Grupo D\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 20/06/2026 00:00
+LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
+CATEGORIES:Grupo D
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1223331f-9adf-484c-880e-54234dc81d51@wc2026
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:🟡 🟧 Türkiye vs EE.UU. | Grupo D
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Türkiye vs EE.UU.\n📋 Grupo D\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 23:00
+LOCATION:SoFi Stadium\, Inglewood, EE.UU.
+CATEGORIES:Grupo D
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca227b6e-cb46-4573-ac3b-b0c1b81f9214@wc2026
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:🟧 Paraguay vs Australia | Grupo D
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Paraguay vs Australia\n📋 Grupo D\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 23:00
+LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
+CATEGORIES:Grupo D
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7953a9bb-a246-4534-9856-2af908798dc1@wc2026
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:🟡 🟥 Alemania vs Curazao | Grupo E
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Alemania vs Curazao\n📋 Grupo E\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 14:00
+LOCATION:NRG Stadium\, Houston, EE.UU.
+CATEGORIES:Grupo E
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e19e80-f4ff-4956-b9f3-3182f1eec0f3@wc2026
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:🟥 Costa de Marfil vs Ecuador | Grupo E
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Costa de Marfil vs Ecuador\n📋 Grupo E\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 20:00
+LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
+CATEGORIES:Grupo E
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:424d3100-05f8-4eb6-bee7-e4f7012c28a7@wc2026
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:🟥 Alemania vs Costa de Marfil | Grupo E
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Alemania vs Costa de Marfil\n📋 Grupo E\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 20/06/2026 14:00
+LOCATION:BMO Field\, Toronto, Canadá
+CATEGORIES:Grupo E
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8d693360-ed45-48c5-bd9a-016cb19cb8c8@wc2026
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:🟥 Ecuador vs Curazao | Grupo E
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Ecuador vs Curazao\n📋 Grupo E\n🏟️ Arrowhead Stadium\n📍 Kansas City, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 20/06/2026 21:00
+LOCATION:Arrowhead Stadium\, Kansas City, EE.UU.
+CATEGORIES:Grupo E
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dc14c10d-fdb3-4d34-860d-7e6bf31e466a@wc2026
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:🟡 🟥 Curazao vs Costa de Marfil | Grupo E
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Curazao vs Costa de Marfil\n📋 Grupo E\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 17:00
+LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
+CATEGORIES:Grupo E
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:133cc20a-f9ee-4104-a147-2a6ca08c2f9a@wc2026
+DTSTART:20260625T200000Z
+DTEND:20260625T220000Z
+SUMMARY:🟥 Ecuador vs Alemania | Grupo E
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Ecuador vs Alemania\n📋 Grupo E\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 17:00
+LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
+CATEGORIES:Grupo E
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:96d17a90-ac12-4507-842e-3f03186e7f37@wc2026
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:🟪 Países Bajos vs Japón | Grupo F
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Países Bajos vs Japón\n📋 Grupo F\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 17:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Grupo F
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:baa920e7-86c2-4f15-b246-3b0b6cec5884@wc2026
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:🟡 🟪 Suecia vs Túnez | Grupo F
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Suecia vs Túnez\n📋 Grupo F\n🏟️ Estadio BBVA\n📍 Monterrey, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 23:00
+LOCATION:Estadio BBVA\, Monterrey, México
+CATEGORIES:Grupo F
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd00d28-c24a-4958-954b-8ada4162191d@wc2026
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:🟪 Túnez vs Japón | Grupo F
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Túnez vs Japón\n📋 Grupo F\n🏟️ Estadio BBVA\n📍 Monterrey, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 01:00
+LOCATION:Estadio BBVA\, Monterrey, México
+CATEGORIES:Grupo F
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc1737e-c4a9-4ef8-ad1c-bc0c8a1d2f0f@wc2026
+DTSTART:20260620T170000Z
+DTEND:20260620T190000Z
+SUMMARY:🟪 Países Bajos vs Suecia | Grupo F
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Países Bajos vs Suecia\n📋 Grupo F\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 20/06/2026 14:00
+LOCATION:NRG Stadium\, Houston, EE.UU.
+CATEGORIES:Grupo F
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2beee7c7-42cb-4ded-8f51-10065a7d3d04@wc2026
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:🟪 Japón vs Suecia | Grupo F
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Japón vs Suecia\n📋 Grupo F\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 20:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Grupo F
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:653d9102-95f3-44cb-b34c-46b72f6ea9cd@wc2026
+DTSTART:20260625T230000Z
+DTEND:20260626T010000Z
+SUMMARY:🟪 Túnez vs Países Bajos | Grupo F
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Túnez vs Países Bajos\n📋 Grupo F\n🏟️ Arrowhead Stadium\n📍 Kansas City, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 20:00
+LOCATION:Arrowhead Stadium\, Kansas City, EE.UU.
+CATEGORIES:Grupo F
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0baa9cd7-5e44-4453-9c76-588a4ee9ecdd@wc2026
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:🔵 Bélgica vs Egipto | Grupo G
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Bélgica vs Egipto\n📋 Grupo G\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/06/2026 16:00
+LOCATION:Lumen Field\, Seattle, EE.UU.
+CATEGORIES:Grupo G
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:045721fc-a913-4a55-b0f3-dd8b0ee33752@wc2026
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:🟡 🔵 Irán vs Nueva Zelanda | Grupo G
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Irán vs Nueva Zelanda\n📋 Grupo G\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/06/2026 22:00
+LOCATION:SoFi Stadium\, Inglewood, EE.UU.
+CATEGORIES:Grupo G
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7cf46b15-3e7a-4314-953f-8cadc08e1f86@wc2026
+DTSTART:20260621T190000Z
+DTEND:20260621T210000Z
+SUMMARY:🔵 Bélgica vs Irán | Grupo G
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Bélgica vs Irán\n📋 Grupo G\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 16:00
+LOCATION:SoFi Stadium\, Inglewood, EE.UU.
+CATEGORIES:Grupo G
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:27303596-f505-4803-ba01-977790f09e5d@wc2026
+DTSTART:20260622T010000Z
+DTEND:20260622T030000Z
+SUMMARY:🟡 🔵 Nueva Zelanda vs Egipto | Grupo G
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Nueva Zelanda vs Egipto\n📋 Grupo G\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 22:00
+LOCATION:BC Place\, Vancouver, Canadá
+CATEGORIES:Grupo G
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca7cff9d-d08f-4773-92c6-0ba39593d7de@wc2026
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:🟡 🔵 Egipto vs Irán | Grupo G
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Egipto vs Irán\n📋 Grupo G\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 00:00
+LOCATION:Lumen Field\, Seattle, EE.UU.
+CATEGORIES:Grupo G
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0e15331b-3d01-4918-846d-aabc451dac2d@wc2026
+DTSTART:20260627T030000Z
+DTEND:20260627T050000Z
+SUMMARY:🟡 🔵 Nueva Zelanda vs Bélgica | Grupo G
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Nueva Zelanda vs Bélgica\n📋 Grupo G\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 00:00
+LOCATION:BC Place\, Vancouver, Canadá
+CATEGORIES:Grupo G
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:615abf5e-adad-4039-95dd-30d1073b3dbf@wc2026
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:🟢 España vs Cabo Verde | Grupo H
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ España vs Cabo Verde\n📋 Grupo H\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/06/2026 13:00
+LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
+CATEGORIES:Grupo H
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:05bd1ac0-4042-4728-8bfe-b72cdc9e004e@wc2026
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:🟢 Arabia Saudita vs Uruguay | Grupo H
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Arabia Saudita vs Uruguay\n📋 Grupo H\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/06/2026 19:00
+LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
+CATEGORIES:Grupo H
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9713f63e-a171-4727-8a6e-d6059d19d0d0@wc2026
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:🟢 España vs Arabia Saudita | Grupo H
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ España vs Arabia Saudita\n📋 Grupo H\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 13:00
+LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
+CATEGORIES:Grupo H
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e63ae7-e931-46f1-9435-e73b4a2f70d4@wc2026
+DTSTART:20260621T220000Z
+DTEND:20260622T000000Z
+SUMMARY:🟢 Uruguay vs Cabo Verde | Grupo H
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Uruguay vs Cabo Verde\n📋 Grupo H\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 19:00
+LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
+CATEGORIES:Grupo H
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:328ba27a-c8ba-4827-86c4-c44e12a4b9b3@wc2026
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:🟡 🟢 Cabo Verde vs Arabia Saudita | Grupo H
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Cabo Verde vs Arabia Saudita\n📋 Grupo H\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 26/06/2026 21:00
+LOCATION:NRG Stadium\, Houston, EE.UU.
+CATEGORIES:Grupo H
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dad440de-639f-4c34-9199-2b293a6a4e9b@wc2026
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:🟢 Uruguay vs España | Grupo H
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Uruguay vs España\n📋 Grupo H\n🏟️ Estadio Akron\n📍 Zapopan, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 26/06/2026 21:00
+LOCATION:Estadio Akron\, Zapopan, México
+CATEGORIES:Grupo H
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:942487d0-02fa-4a58-9235-9d1f646a5a69@wc2026
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:🟡 Francia vs Senegal | Grupo I
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Francia vs Senegal\n📋 Grupo I\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 16/06/2026 16:00
+LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
+CATEGORIES:Grupo I
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5e0e8235-d48e-4a55-abd6-579bd4000f72@wc2026
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:🟡 Irak vs Noruega | Grupo I
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Irak vs Noruega\n📋 Grupo I\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 16/06/2026 19:00
+LOCATION:Gillette Stadium\, Foxborough, EE.UU.
+CATEGORIES:Grupo I
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:adab80c0-0f63-4b63-8239-cef82d26fc19@wc2026
+DTSTART:20260622T210000Z
+DTEND:20260622T230000Z
+SUMMARY:🟡 🟡 Francia vs Irak | Grupo I
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Francia vs Irak\n📋 Grupo I\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 22/06/2026 18:00
+LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
+CATEGORIES:Grupo I
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a534e25-9929-49ae-8f9c-398383ba97b3@wc2026
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:🟡 Noruega vs Senegal | Grupo I
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Noruega vs Senegal\n📋 Grupo I\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 22/06/2026 21:00
+LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
+CATEGORIES:Grupo I
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a64e0a-5af6-4b45-a1af-4f0894c5d0b1@wc2026
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:🟡 Noruega vs Francia | Grupo I
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Noruega vs Francia\n📋 Grupo I\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 26/06/2026 16:00
+LOCATION:Gillette Stadium\, Foxborough, EE.UU.
+CATEGORIES:Grupo I
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c213d2-0cd4-4117-9317-50a99c85e2bd@wc2026
+DTSTART:20260626T190000Z
+DTEND:20260626T210000Z
+SUMMARY:🟡 🟡 Senegal vs Irak | Grupo I
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Senegal vs Irak\n📋 Grupo I\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 26/06/2026 16:00
+LOCATION:BMO Field\, Toronto, Canadá
+CATEGORIES:Grupo I
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1df3f89-9b52-4a98-b935-8f3ef2a13ba1@wc2026
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:🟠 Argentina vs Argelia | Grupo J
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Argentina vs Argelia\n📋 Grupo J\n🏟️ Arrowhead Stadium\n📍 Kansas City, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 16/06/2026 22:00
+LOCATION:Arrowhead Stadium\, Kansas City, EE.UU.
+CATEGORIES:Grupo J
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3a7544-3c16-4baf-9d72-c6b1c6c7ad0b@wc2026
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:🟡 🟠 Austria vs Jordania | Grupo J
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Austria vs Jordania\n📋 Grupo J\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 01:00
+LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
+CATEGORIES:Grupo J
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:29b606ae-9ace-4ad8-8541-d266a361da2b@wc2026
+DTSTART:20260622T170000Z
+DTEND:20260622T190000Z
+SUMMARY:🟠 Argentina vs Austria | Grupo J
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Argentina vs Austria\n📋 Grupo J\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 22/06/2026 14:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Grupo J
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4fa1057-7456-4697-97d2-4fb4cc65a9d0@wc2026
+DTSTART:20260623T030000Z
+DTEND:20260623T050000Z
+SUMMARY:🟡 🟠 Jordania vs Argelia | Grupo J
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Jordania vs Argelia\n📋 Grupo J\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 00:00
+LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
+CATEGORIES:Grupo J
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa06315-7395-4cc5-95fd-ee389bc3bdd6@wc2026
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:🟡 🟠 Argelia vs Austria | Grupo J
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Argelia vs Austria\n📋 Grupo J\n🏟️ Arrowhead Stadium\n📍 Kansas City, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 23:00
+LOCATION:Arrowhead Stadium\, Kansas City, EE.UU.
+CATEGORIES:Grupo J
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa69cd9b-1cd5-4706-b226-e04255fb673b@wc2026
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:🟠 Jordania vs Argentina | Grupo J
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Jordania vs Argentina\n📋 Grupo J\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 23:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Grupo J
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4375ef-10ce-4f67-b9e2-4e639c6dceda@wc2026
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:🟡 🔴 Portugal vs Rep. Dem. Congo | Grupo K
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Portugal vs Rep. Dem. Congo\n📋 Grupo K\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 14:00
+LOCATION:NRG Stadium\, Houston, EE.UU.
+CATEGORIES:Grupo K
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:52196bb9-c987-46c1-a5c0-5887de4d1fad@wc2026
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:🔴 Uzbekistán vs Colombia | Grupo K
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Uzbekistán vs Colombia\n📋 Grupo K\n🏟️ Estadio Azteca\n📍 Ciudad de México, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 23:00
+LOCATION:Estadio Azteca\, Ciudad de México, México
+CATEGORIES:Grupo K
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:128cd8b0-6a18-468b-8a9b-2cf5219b76a0@wc2026
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:🔴 Portugal vs Uzbekistán | Grupo K
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Portugal vs Uzbekistán\n📋 Grupo K\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 14:00
+LOCATION:NRG Stadium\, Houston, EE.UU.
+CATEGORIES:Grupo K
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95a5b129-f327-4194-a803-23f9f7b2194a@wc2026
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:🔴 Colombia vs Rep. Dem. Congo | Grupo K
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Colombia vs Rep. Dem. Congo\n📋 Grupo K\n🏟️ Estadio Akron\n📍 Zapopan, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 23:00
+LOCATION:Estadio Akron\, Zapopan, México
+CATEGORIES:Grupo K
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8066687b-0391-4053-a583-e81552d89413@wc2026
+DTSTART:20260628T233000Z
+DTEND:20260629T013000Z
+SUMMARY:🔴 Colombia vs Portugal | Grupo K
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Colombia vs Portugal\n📋 Grupo K\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 28/06/2026 20:30
+LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
+CATEGORIES:Grupo K
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0de31167-5ecd-46bc-968e-8125963d67f5@wc2026
+DTSTART:20260628T233000Z
+DTEND:20260629T013000Z
+SUMMARY:🟡 🔴 Rep. Dem. Congo vs Uzbekistán | Grupo K
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Rep. Dem. Congo vs Uzbekistán\n📋 Grupo K\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 28/06/2026 20:30
+LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
+CATEGORIES:Grupo K
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:59a86982-7acb-4f59-978c-fd2e76f18fb5@wc2026
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:🟣 Inglaterra vs Croacia | Grupo L
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Inglaterra vs Croacia\n📋 Grupo L\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 17:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Grupo L
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b99d4d36-34c2-4c60-8db2-20cbbc00a740@wc2026
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:🟡 🟣 Ghana vs Panamá | Grupo L
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Ghana vs Panamá\n📋 Grupo L\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 20:00
+LOCATION:BMO Field\, Toronto, Canadá
+CATEGORIES:Grupo L
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b82fddf6-9d98-46e8-b0ff-1042a7a110db@wc2026
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:🟣 Inglaterra vs Ghana | Grupo L
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Inglaterra vs Ghana\n📋 Grupo L\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 17:00
+LOCATION:Gillette Stadium\, Foxborough, EE.UU.
+CATEGORIES:Grupo L
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7e5bc1da-9d64-4ca9-8e32-5827c381a627@wc2026
+DTSTART:20260623T230000Z
+DTEND:20260624T010000Z
+SUMMARY:🟣 Panamá vs Croacia | Grupo L
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Panamá vs Croacia\n📋 Grupo L\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 20:00
+LOCATION:BMO Field\, Toronto, Canadá
+CATEGORIES:Grupo L
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a073f98-193d-4a84-abe5-b7a9d99e90c8@wc2026
+DTSTART:20260628T210000Z
+DTEND:20260628T230000Z
+SUMMARY:🟡 🟣 Panamá vs Inglaterra | Grupo L
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n🟡 EXCLUSIVO DGO/DSports - Toda LATAM\n⚽ Panamá vs Inglaterra\n📋 Grupo L\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 28/06/2026 18:00
+LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
+CATEGORIES:Grupo L
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e4deef34-b5bc-4934-97d5-188ca74ecdc5@wc2026
+DTSTART:20260628T210000Z
+DTEND:20260628T230000Z
+SUMMARY:🟣 Croacia vs Ghana | Grupo L
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ Croacia vs Ghana\n📋 Grupo L\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 28/06/2026 18:00
+LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
+CATEGORIES:Grupo L
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ac001cd5-b50a-4bec-9d3b-7c3fdc35e9fd@wc2026
+DTSTART:20260628T190000Z
+DTEND:20260628T210000Z
+SUMMARY:⚽ 2° Grupo A vs 2° Grupo B | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 2° Grupo A vs 2° Grupo B\n📋 Ronda de 32\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 28/06/2026 16:00
+LOCATION:SoFi Stadium\, Inglewood, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:33c16eda-efca-4ab6-8036-32f01fdbebe5@wc2026
+DTSTART:20260629T170000Z
+DTEND:20260629T190000Z
+SUMMARY:⚽ 1° Grupo C vs 2° Grupo F | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo C vs 2° Grupo F\n📋 Ronda de 32\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 29/06/2026 14:00
+LOCATION:NRG Stadium\, Houston, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dff71004-00d4-4a2b-889d-20d85ecf537a@wc2026
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:⚽ 1° Grupo E vs Mejor 3° | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo E vs Mejor 3°\n📋 Ronda de 32\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 29/06/2026 17:30
+LOCATION:Gillette Stadium\, Foxborough, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ac1b01-2549-4a3a-bbca-2b31742fc243@wc2026
+DTSTART:20260630T010000Z
+DTEND:20260630T030000Z
+SUMMARY:⚽ 1° Grupo F vs 2° Grupo C | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo F vs 2° Grupo C\n📋 Ronda de 32\n🏟️ Estadio BBVA\n📍 Monterrey, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 29/06/2026 22:00
+LOCATION:Estadio BBVA\, Monterrey, México
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5507d89b-f012-4d59-aac9-e1b72b9b4e92@wc2026
+DTSTART:20260630T170000Z
+DTEND:20260630T190000Z
+SUMMARY:⚽ 2° Grupo E vs 2° Grupo I | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 2° Grupo E vs 2° Grupo I\n📋 Ronda de 32\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 30/06/2026 14:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0102ffba-2f4c-42e9-adab-ed935ee1c42a@wc2026
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:⚽ 1° Grupo I vs Mejor 3° | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo I vs Mejor 3°\n📋 Ronda de 32\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 30/06/2026 18:00
+LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ebe83e97-3178-4e30-9e98-48f03c0aeb10@wc2026
+DTSTART:20260701T010000Z
+DTEND:20260701T030000Z
+SUMMARY:⚽ 1° Grupo A vs Mejor 3° | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo A vs Mejor 3°\n📋 Ronda de 32\n🏟️ Estadio Azteca\n📍 Ciudad de México, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 30/06/2026 22:00
+LOCATION:Estadio Azteca\, Ciudad de México, México
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4601bffd-4797-4b5b-baf2-c42809e42141@wc2026
+DTSTART:20260701T160000Z
+DTEND:20260701T180000Z
+SUMMARY:⚽ 1° Grupo L vs Mejor 3° | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo L vs Mejor 3°\n📋 Ronda de 32\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 01/07/2026 13:00
+LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a2ed171-7685-4efd-ac79-f4f836ba2333@wc2026
+DTSTART:20260701T200000Z
+DTEND:20260701T220000Z
+SUMMARY:⚽ 1° Grupo G vs Mejor 3° | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo G vs Mejor 3°\n📋 Ronda de 32\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 01/07/2026 17:00
+LOCATION:Lumen Field\, Seattle, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e79497b2-3302-4757-95e8-5fa0f945a9d0@wc2026
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+SUMMARY:⚽ 1° Grupo D vs Mejor 3° | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo D vs Mejor 3°\n📋 Ronda de 32\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 01/07/2026 21:00
+LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18e2e35e-4b5b-440e-9679-1d9d158ecc3f@wc2026
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+SUMMARY:⚽ 1° Grupo H vs 2° Grupo J | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo H vs 2° Grupo J\n📋 Ronda de 32\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 02/07/2026 16:00
+LOCATION:SoFi Stadium\, Inglewood, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c50bfb8-417f-45b3-b7a1-698c846f95c2@wc2026
+DTSTART:20260702T230000Z
+DTEND:20260703T010000Z
+SUMMARY:⚽ 2° Grupo K vs 2° Grupo L | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 2° Grupo K vs 2° Grupo L\n📋 Ronda de 32\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 02/07/2026 20:00
+LOCATION:BMO Field\, Toronto, Canadá
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a60e5b30-c306-4be7-b48c-0ae1ce33838a@wc2026
+DTSTART:20260703T030000Z
+DTEND:20260703T050000Z
+SUMMARY:⚽ 1° Grupo B vs Mejor 3° | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo B vs Mejor 3°\n📋 Ronda de 32\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 03/07/2026 00:00
+LOCATION:BC Place\, Vancouver, Canadá
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d3acf86c-3956-47aa-afc0-329abed4d4de@wc2026
+DTSTART:20260703T180000Z
+DTEND:20260703T200000Z
+SUMMARY:⚽ 2° Grupo D vs 2° Grupo G | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 2° Grupo D vs 2° Grupo G\n📋 Ronda de 32\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 03/07/2026 15:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80169435-8eb9-4bcc-a941-d44e0c767281@wc2026
+DTSTART:20260703T220000Z
+DTEND:20260704T000000Z
+SUMMARY:⚽ 1° Grupo J vs 2° Grupo H | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo J vs 2° Grupo H\n📋 Ronda de 32\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 03/07/2026 19:00
+LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4c0cbab7-fc3a-4fa5-8ede-b792f441a521@wc2026
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:⚽ 1° Grupo K vs Mejor 3° | Ronda de 32
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 1° Grupo K vs Mejor 3°\n📋 Ronda de 32\n🏟️ Arrowhead Stadium\n📍 Kansas City, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 03/07/2026 22:30
+LOCATION:Arrowhead Stadium\, Kansas City, EE.UU.
+CATEGORIES:Ronda de 32
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a85bfa61-0285-4866-bd7e-b0f1361b5d50@wc2026
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:⚡ TBD vs TBD | Octavos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Octavos de Final\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 04/07/2026 14:00
+LOCATION:NRG Stadium\, Houston, EE.UU.
+CATEGORIES:Octavos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2585377e-baae-4c61-9f88-5be70fd29c9a@wc2026
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:⚡ TBD vs TBD | Octavos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Octavos de Final\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 04/07/2026 18:00
+LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
+CATEGORIES:Octavos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b592be2a-da48-4f1c-80b3-88dfde1d8f40@wc2026
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:⚡ TBD vs TBD | Octavos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Octavos de Final\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 05/07/2026 17:00
+LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
+CATEGORIES:Octavos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f24500a1-5d4e-458d-8adf-c5bd8101fbbd@wc2026
+DTSTART:20260706T000000Z
+DTEND:20260706T020000Z
+SUMMARY:⚡ TBD vs TBD | Octavos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Octavos de Final\n🏟️ Estadio Azteca\n📍 Ciudad de México, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 05/07/2026 21:00
+LOCATION:Estadio Azteca\, Ciudad de México, México
+CATEGORIES:Octavos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c05b8aa3-9f38-44cf-8207-ed8d534cf2ad@wc2026
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+SUMMARY:⚡ TBD vs TBD | Octavos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Octavos de Final\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 06/07/2026 16:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Octavos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e8b9ce-9fee-4124-8e3a-899eaf84b61a@wc2026
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:⚡ TBD vs TBD | Octavos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Octavos de Final\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 06/07/2026 21:00
+LOCATION:Lumen Field\, Seattle, EE.UU.
+CATEGORIES:Octavos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97731611-3ba4-4804-822c-459f62fa8a43@wc2026
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:⚡ TBD vs TBD | Octavos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Octavos de Final\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 07/07/2026 13:00
+LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
+CATEGORIES:Octavos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac36f3e-58f4-46dd-a44d-91b4ab7aacdb@wc2026
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:⚡ TBD vs TBD | Octavos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Octavos de Final\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 07/07/2026 17:00
+LOCATION:BC Place\, Vancouver, Canadá
+CATEGORIES:Octavos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:375d2d71-797f-4e16-9650-eeab3c8d7fc2@wc2026
+DTSTART:20260709T200000Z
+DTEND:20260709T220000Z
+SUMMARY:🔥 TBD vs TBD | Cuartos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Cuartos de Final\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 09/07/2026 17:00
+LOCATION:Gillette Stadium\, Foxborough, EE.UU.
+CATEGORIES:Cuartos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e1b48f1-44e9-4129-ba70-6a427757414b@wc2026
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:🔥 TBD vs TBD | Cuartos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Cuartos de Final\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 10/07/2026 16:00
+LOCATION:SoFi Stadium\, Inglewood, EE.UU.
+CATEGORIES:Cuartos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a510ed41-0b2f-4c8c-b891-d0bad8a6013c@wc2026
+DTSTART:20260711T210000Z
+DTEND:20260711T230000Z
+SUMMARY:🔥 TBD vs TBD | Cuartos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Cuartos de Final\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 11/07/2026 18:00
+LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
+CATEGORIES:Cuartos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fefb81a2-e8dc-419a-a360-c140f8115391@wc2026
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:🔥 TBD vs TBD | Cuartos de Final
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Cuartos de Final\n🏟️ Arrowhead Stadium\n📍 Kansas City, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 11/07/2026 22:00
+LOCATION:Arrowhead Stadium\, Kansas City, EE.UU.
+CATEGORIES:Cuartos de Final
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2a1767ac-f13a-4394-bcb1-57e13f230f8b@wc2026
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:💫 TBD vs TBD | Semifinal
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Semifinal\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/07/2026 16:00
+LOCATION:AT&T Stadium\, Arlington, EE.UU.
+CATEGORIES:Semifinal
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3eec9c1b-725e-4883-b483-eb6a050b26a7@wc2026
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+SUMMARY:💫 TBD vs TBD | Semifinal
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Semifinal\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/07/2026 16:00
+LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
+CATEGORIES:Semifinal
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1991826d-b01f-4832-a373-fe1930463858@wc2026
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
+SUMMARY:🥉 TBD vs TBD | Tercer Puesto
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 Tercer Puesto\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/07/2026 18:00
+LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
+CATEGORIES:Tercer Puesto
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d13e1171-4101-4deb-b906-4caa241943ce@wc2026
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:🏆 TBD vs TBD | FINAL
+DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ TBD vs TBD\n📋 FINAL\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n🇦🇷 Horario Argentina: 19/07/2026 16:00
+LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
+CATEGORIES:FINAL
+URL:https://www.directvgo.com/ar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
