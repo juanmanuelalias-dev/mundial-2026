@@ -374,9 +374,8 @@
     </a>
 
     <!-- Google Calendar -->
-    <a class="btn-primary"
-       href="https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fjuanmanuelalias-dev.github.io%2Fmundial-2026%2FMundial_FIFA_2026_v4.ics"
-       target="_blank" rel="noopener">
+    <a class="btn-primary" id="btn-gcal"
+       href="webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics">
       <span>📅 Agregar a Google Calendar</span>
       <span class="btn-icon">→</span>
     </a>
@@ -420,13 +419,33 @@
 
 <script>
   // Detect device and reorder buttons
-  const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+  const isIOS     = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
   const isAndroid = /Android/.test(navigator.userAgent);
+  const isPC      = !isIOS && !isAndroid;
+
+  const gcalBtn = document.getElementById('btn-gcal');
+  const iosBtn  = document.getElementById('btn-ios');
 
   if (isAndroid) {
-    // On Android, push Apple Calendar button down
-    const iosBtn = document.getElementById('btn-ios');
-    iosBtn.style.order = '10';
+    // Android: solo Google Calendar, abre app nativa con webcal://
+    iosBtn.style.display = 'none';
+    gcalBtn.href = 'webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics';
+
+  } else if (isIOS) {
+    // iOS: mostrar todos los botones
+    // Google Calendar: intenta abrir app, fallback a web
+    gcalBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      window.location = 'webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics';
+      setTimeout(() => {
+        window.open('https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fjuanmanuelalias-dev.github.io%2Fmundial-2026%2FMundial_FIFA_2026_v4.ics', '_blank');
+      }, 1500);
+    });
+
+  } else {
+    // PC: mostrar todos los botones, Google Calendar abre en web
+    gcalBtn.href = 'https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fjuanmanuelalias-dev.github.io%2Fmundial-2026%2FMundial_FIFA_2026_v4.ics';
+    gcalBtn.target = '_blank';
   }
 
   function copyURL() {
