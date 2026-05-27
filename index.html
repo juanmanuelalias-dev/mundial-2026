@@ -6,11 +6,12 @@
 <title>Mundial FIFA 2026 — Calendario DGO</title>
 <meta name="description" content="Agregá todos los partidos del Mundial 2026 a tu calendario con un tap. Incluye sedes, grupos, horarios y exclusividades DGO.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --red:    #e8002d;
-    --gold:   #f5c518;
+    --blue:   #077cc0;
+    --blue-h: #065f96;
+    --gold:   #f1c40f;
     --dark:   #0a0a0a;
     --mid:    #141414;
     --border: rgba(255,255,255,0.08);
@@ -25,9 +26,18 @@
   body {
     background: var(--dark);
     color: var(--text);
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
     min-height: 100vh;
     overflow-x: hidden;
+  }
+
+
+  .logo-dgo {
+    height: 52px;
+    width: auto;
+    margin-bottom: 1.75rem;
+    display: block;
   }
 
   /* ── NOISE OVERLAY ── */
@@ -48,7 +58,7 @@
     right: -5%;
     width: 3px;
     height: 130%;
-    background: linear-gradient(180deg, transparent 0%, var(--red) 30%, var(--gold) 70%, transparent 100%);
+    background: linear-gradient(180deg, transparent 0%, var(--blue) 30%, var(--gold) 70%, transparent 100%);
     transform: rotate(8deg);
     opacity: .18;
     pointer-events: none;
@@ -64,9 +74,8 @@
   }
 
   .eyebrow {
-    font-family: 'DM Sans', sans-serif;
     font-size: .72rem;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: .22em;
     text-transform: uppercase;
     color: var(--gold);
@@ -85,22 +94,23 @@
   }
 
   h1 {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: clamp(3.5rem, 12vw, 6.5rem);
-    line-height: .92;
-    letter-spacing: .01em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: clamp(3rem, 12vw, 6rem);
+    line-height: .95;
+    letter-spacing: -.01em;
     color: var(--text);
   }
 
   h1 span {
-    color: var(--red);
+    color: var(--blue);
     display: block;
   }
 
   .subtitle {
     margin-top: 1.25rem;
     font-size: .95rem;
-    font-weight: 300;
+    font-weight: 400;
     color: var(--muted);
     line-height: 1.6;
     max-width: 440px;
@@ -112,7 +122,7 @@
     gap: 0;
     margin-top: 2.5rem;
     border: 1px solid var(--border);
-    border-radius: 2px;
+    border-radius: 12px;
     overflow: hidden;
   }
 
@@ -126,7 +136,8 @@
   .stat:last-child { border-right: none; }
 
   .stat-num {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
     font-size: 1.8rem;
     color: var(--gold);
     line-height: 1;
@@ -134,6 +145,7 @@
 
   .stat-label {
     font-size: .67rem;
+    font-weight: 400;
     letter-spacing: .1em;
     text-transform: uppercase;
     color: var(--muted);
@@ -152,14 +164,14 @@
   .card {
     background: var(--mid);
     border: 1px solid var(--border);
-    border-radius: 4px;
+    border-radius: 16px;
     padding: 2rem;
     margin-bottom: 1rem;
   }
 
   .card-title {
     font-size: .7rem;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: .18em;
     text-transform: uppercase;
     color: var(--muted);
@@ -173,22 +185,21 @@
     justify-content: space-between;
     width: 100%;
     padding: 1rem 1.25rem;
-    background: var(--red);
+    background: var(--blue);
     color: #fff;
     border: none;
-    border-radius: 3px;
-    font-family: 'DM Sans', sans-serif;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
     font-size: .95rem;
-    font-weight: 500;
+    font-weight: 700;
     cursor: pointer;
     text-decoration: none;
     transition: background .15s, transform .1s;
     margin-bottom: .75rem;
   }
 
-  .btn-primary:hover { background: #c8001f; transform: translateY(-1px); }
+  .btn-primary:hover { background: var(--blue-h); transform: translateY(-1px); }
   .btn-primary:active { transform: translateY(0); }
-
   .btn-primary .btn-icon { font-size: 1.2rem; }
 
   .btn-secondary {
@@ -200,8 +211,8 @@
     background: transparent;
     color: var(--text);
     border: 1px solid var(--border);
-    border-radius: 3px;
-    font-family: 'DM Sans', sans-serif;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
     font-size: .9rem;
     font-weight: 400;
     cursor: pointer;
@@ -228,10 +239,10 @@
     flex: 1;
     background: rgba(255,255,255,0.05);
     border: 1px solid var(--border);
-    border-radius: 3px;
+    border-radius: 50px;
     padding: .7rem 1rem;
     color: var(--muted);
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: .78rem;
     outline: none;
     cursor: text;
@@ -241,9 +252,9 @@
     padding: .7rem 1.1rem;
     background: rgba(255,255,255,0.07);
     border: 1px solid var(--border);
-    border-radius: 3px;
+    border-radius: 50px;
     color: var(--text);
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: .78rem;
     cursor: pointer;
     transition: background .15s;
@@ -258,15 +269,15 @@
     display: inline-flex;
     align-items: center;
     gap: .4rem;
-    background: rgba(245,197,24,.1);
-    border: 1px solid rgba(245,197,24,.25);
+    background: rgba(241,196,15,.1);
+    border: 1px solid rgba(241,196,15,.25);
     color: var(--gold);
     font-size: .72rem;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: .08em;
     text-transform: uppercase;
     padding: .3rem .75rem;
-    border-radius: 2px;
+    border-radius: 50px;
     margin-bottom: 1.5rem;
   }
 
@@ -283,6 +294,7 @@
     align-items: flex-start;
     gap: .75rem;
     font-size: .88rem;
+    font-weight: 400;
     color: var(--muted);
     line-height: 1.5;
   }
@@ -296,6 +308,29 @@
     margin: 1.25rem 0;
   }
 
+  /* ── ACCORDION ── */
+  .accordion { border: 1px solid var(--border); border-radius: 16px; overflow: hidden; margin-bottom: 1rem; }
+  .acc-item { border-bottom: 1px solid var(--border); }
+  .acc-item:last-child { border-bottom: none; }
+  .acc-header { display: flex; align-items: center; justify-content: space-between; padding: 1rem 1.25rem; cursor: pointer; background: var(--mid); transition: background .15s; user-select: none; gap: 1rem; }
+  .acc-header:hover { background: rgba(255,255,255,0.04); }
+  .acc-header-left { display: flex; align-items: center; gap: .75rem; }
+  .acc-icon { font-size: 1.3rem; flex-shrink: 0; }
+  .acc-title { font-weight: 700; font-size: .92rem; color: var(--text); }
+  .acc-badge { font-size: .65rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: .2rem .55rem; border-radius: 50px; background: rgba(7,124,192,.15); color: var(--blue); border: 1px solid rgba(7,124,192,.3); white-space: nowrap; }
+  .acc-badge.gold { background: rgba(241,196,15,.12); color: var(--gold); border-color: rgba(241,196,15,.3); }
+  .acc-arrow { font-size: .8rem; color: var(--muted); transition: transform .25s; flex-shrink: 0; }
+  .acc-item.open .acc-arrow { transform: rotate(180deg); }
+  .acc-body { max-height: 0; overflow: hidden; transition: max-height .35s ease; background: rgba(255,255,255,0.02); }
+  .acc-item.open .acc-body { max-height: 600px; }
+  .acc-content { padding: 1.25rem 1.25rem 1.5rem; }
+  .steps { list-style: none; display: flex; flex-direction: column; gap: .85rem; }
+  .steps li { display: flex; align-items: flex-start; gap: .75rem; font-size: .85rem; color: var(--muted); line-height: 1.55; }
+  .step-num { flex-shrink: 0; width: 1.4rem; height: 1.4rem; border-radius: 50%; background: var(--blue); color: #fff; font-size: .7rem; font-weight: 700; display: flex; align-items: center; justify-content: center; margin-top: .1rem; }
+  .steps li strong { color: var(--text); font-weight: 700; }
+  .acc-note { margin-top: 1rem; padding: .75rem 1rem; background: rgba(241,196,15,.07); border: 1px solid rgba(241,196,15,.2); border-radius: 8px; font-size: .8rem; color: var(--muted); line-height: 1.5; }
+  .acc-note strong { color: var(--gold); }
+
   /* ── FOOTER ── */
   footer {
     position: relative;
@@ -303,6 +338,7 @@
     text-align: center;
     padding: 2rem;
     font-size: .75rem;
+    font-weight: 400;
     color: var(--muted);
     border-top: 1px solid var(--border);
     max-width: 680px;
@@ -335,9 +371,10 @@
 <div class="accent-line"></div>
 
 <header>
+  <img src="data:image/png;base64,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zsih3YStTjn9PLxPVSrcTXIDLT9B0V43PtC1zsxbMOU0fJ1RO5/waB81BcSaVMb31r4p7w6lp35gw0jRE3LlmPSI7yVCEXbTWG3UxzjiGffr981yVF6rqgZPlOXdq9sl+uc5zi5zi5xOZJOZK/ERS6i0RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERF/9k=" alt="DGO" class="logo-dgo">
   <p class="eyebrow">FIFA World Cup</p>
   <h1>Mundial<span>2026</span></h1>
-  <p class="subtitle">Todos los partidos en tu calendario. Horarios automáticos según tu zona horaria, sedes y exclusividades DGO incluidas.</p>
+  <p class="subtitle">Cada cual desde su lugar, en un mismo lugar. Todos los partidos en tu calendario.</p>
 
   <div class="stats">
     <div class="stat">
@@ -352,10 +389,6 @@
       <div class="stat-num">48</div>
       <div class="stat-label">Equipos</div>
     </div>
-    <div class="stat">
-      <div class="stat-num">25</div>
-      <div class="stat-label">Excl. DGO</div>
-    </div>
   </div>
 </header>
 
@@ -365,24 +398,21 @@
   <div class="card">
     <p class="card-title">Agregá el calendario</p>
 
-    <div class="badge">🟡 25 partidos exclusivos DGO / DSports</div>
-
-    <!-- iOS / Safari -->
-    <a id="btn-ios" class="btn-primary" href="webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics">
+    <a id="btn-ios" class="btn-primary" href="webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026.ics">
       <span>📱 Agregar a Apple Calendar</span>
       <span class="btn-icon">→</span>
     </a>
 
     <!-- Google Calendar -->
     <a class="btn-primary" id="btn-gcal"
-       href="webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics">
+       href="webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026.ics">
       <span>📅 Agregar a Google Calendar</span>
       <span class="btn-icon">→</span>
     </a>
 
     <!-- Outlook -->
     <a class="btn-secondary"
-       href="https://outlook.live.com/calendar/0/addfromweb?url=https://raw.githubusercontent.com/juanmanuelalias-dev/mundial-2026/main/Mundial_FIFA_2026_v4.ics"
+       href="https://outlook.live.com/calendar/0/addfromweb?url=https://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026.ics"
        target="_blank" rel="noopener">
       <span>🗓 Agregar a Outlook</span>
       <span class="btn-icon">→</span>
@@ -393,7 +423,7 @@
     <p class="card-title">O suscribite con URL</p>
     <div class="url-box">
       <input class="url-input" id="cal-url" type="text" readonly
-             value="https://raw.githubusercontent.com/juanmanuelalias-dev/mundial-2026/main/Mundial_FIFA_2026_v4.ics">
+             value="https://bit.ly/CalendarioMundialenDGO">
       <button class="copy-btn" id="copy-btn" onclick="copyURL()">Copiar</button>
     </div>
   </div>
@@ -405,10 +435,102 @@
       <li><span class="icon">🕐</span><span>Horarios automáticos en tu zona horaria — sin conversiones manuales</span></li>
       <li><span class="icon">🏟️</span><span>Sede y ciudad de cada partido</span></li>
       <li><span class="icon">📋</span><span>Grupo o fase (Octavos, Cuartos, Semifinal, Final)</span></li>
-      <li><span class="icon">🟡</span><span>25 partidos marcados como exclusivos DGO/DSports en toda LATAM</span></li>
       <li><span class="icon">📺</span><span>Link directo a DGO en cada evento para mirar desde ahí</span></li>
       <li><span class="icon">🔄</span><span>El calendario se actualiza automáticamente si hay cambios</span></li>
     </ul>
+  </div>
+
+  <!-- CÓMO INSTALARLO -->
+  <div class="card">
+    <p class="card-title">¿Cómo se instala?</p>
+    <div class="accordion">
+
+      <!-- iPhone / iPad -->
+      <div class="acc-item" onclick="toggleAcc(this)">
+        <div class="acc-header">
+          <div class="acc-header-left">
+            <span class="acc-icon">📱</span>
+            <span class="acc-title">iPhone / iPad</span>
+            <span class="acc-badge gold">1 toque</span>
+          </div>
+          <span class="acc-arrow">▼</span>
+        </div>
+        <div class="acc-body">
+          <div class="acc-content">
+            <ul class="steps">
+              <li><span class="step-num">1</span><span>Tocá el botón <strong>Agregar a Apple Calendar</strong> de arriba</span></li>
+              <li><span class="step-num">2</span><span>Tu iPhone pregunta si querés añadir el calendario — tocá <strong>Añadir</strong></span></li>
+              <li><span class="step-num">3</span><span>Los partidos aparecen automáticamente con el horario en tu zona horaria</span></li>
+            </ul>
+            <div class="acc-note"><strong>⭐ Tip:</strong> Si un equipo avanza de ronda, el nuevo partido aparece solo — no tenés que hacer nada.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Android -->
+      <div class="acc-item" onclick="toggleAcc(this)">
+        <div class="acc-header">
+          <div class="acc-header-left">
+            <span class="acc-icon">🤖</span>
+            <span class="acc-title">Android</span>
+            <span class="acc-badge">2 pasos</span>
+          </div>
+          <span class="acc-arrow">▼</span>
+        </div>
+        <div class="acc-body">
+          <div class="acc-content">
+            <ul class="steps">
+              <li><span class="step-num">1</span><span>Tocá el botón <strong>Agregar a Google Calendar</strong> — se copia la URL automáticamente</span></li>
+              <li><span class="step-num">2</span><span>Abrí <strong>calendar.google.com</strong> → tocá <strong>+</strong> junto a "Otros calendarios" → <strong>Desde URL</strong> → pegá la URL → <strong>Agregar calendario</strong></span></li>
+            </ul>
+            <div class="acc-note"><strong>💡 Alternativa:</strong> Tocá el botón y si se abre Google Calendar directamente, aceptá la suscripción.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Google Calendar PC -->
+      <div class="acc-item" onclick="toggleAcc(this)">
+        <div class="acc-header">
+          <div class="acc-header-left">
+            <span class="acc-icon">📅</span>
+            <span class="acc-title">Google Calendar (PC)</span>
+            <span class="acc-badge">1 clic</span>
+          </div>
+          <span class="acc-arrow">▼</span>
+        </div>
+        <div class="acc-body">
+          <div class="acc-content">
+            <ul class="steps">
+              <li><span class="step-num">1</span><span>Hacé clic en el botón <strong>Agregar a Google Calendar</strong> de arriba</span></li>
+              <li><span class="step-num">2</span><span>Google Calendar se abre con el calendario listo para confirmar — hacé clic en <strong>Agregar calendario</strong></span></li>
+              <li><span class="step-num">3</span><span>El calendario aparece en tu panel izquierdo bajo <strong>Otros calendarios</strong></span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Outlook / Mac -->
+      <div class="acc-item" onclick="toggleAcc(this)">
+        <div class="acc-header">
+          <div class="acc-header-left">
+            <span class="acc-icon">🗓</span>
+            <span class="acc-title">Outlook / Mac</span>
+            <span class="acc-badge">Descarga .ics</span>
+          </div>
+          <span class="acc-arrow">▼</span>
+        </div>
+        <div class="acc-body">
+          <div class="acc-content">
+            <ul class="steps">
+              <li><span class="step-num">1</span><span>Hacé clic en el botón <strong>Agregar a Outlook</strong> de arriba</span></li>
+              <li><span class="step-num">2</span><span>Outlook Web se abre con el calendario listo — hacé clic en <strong>Importar</strong></span></li>
+              <li><span class="step-num">3</span><span>Para Mac Calendar: copiá la URL de abajo y en la app Calendar elegí <strong>Archivo → Nueva suscripción a calendario</strong> y pegá la URL</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
   </div>
 
 </main>
@@ -418,7 +540,6 @@
 </footer>
 
 <script>
-  // Detect device and reorder buttons
   const isIOS     = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
   const isAndroid = /Android/.test(navigator.userAgent);
   const isPC      = !isIOS && !isAndroid;
@@ -427,33 +548,33 @@
   const iosBtn  = document.getElementById('btn-ios');
 
   if (isAndroid) {
-    // Android: solo Google Calendar, abre app nativa con webcal://
     iosBtn.style.display = 'none';
-    gcalBtn.href = 'webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics';
+    gcalBtn.href = 'webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026.ics';
 
   } else if (isIOS) {
-    // iOS: mostrar todos los botones
-    // Google Calendar: forzar apertura en Chrome para que intercepte webcal://
     gcalBtn.addEventListener('click', function(e) {
       e.preventDefault();
-      const webcal = 'webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026_v4.ics';
-      // Intentar abrir en Chrome (si está instalado)
+      const webcal = 'webcal://juanmanuelalias-dev.github.io/mundial-2026/Mundial_FIFA_2026.ics';
       const chromeURL = webcal.replace('webcal://', 'googlechrome://');
       window.location = chromeURL;
-      // Fallback: si Chrome no está, abrir webcal:// normal después de 1s
       setTimeout(() => { window.location = webcal; }, 1000);
     });
 
   } else {
-    // PC: mostrar todos los botones, Google Calendar abre en web
-    gcalBtn.href = 'https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fjuanmanuelalias-dev.github.io%2Fmundial-2026%2FMundial_FIFA_2026_v4.ics';
+    gcalBtn.href = 'https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fjuanmanuelalias-dev.github.io%2Fmundial-2026%2FMundial_FIFA_2026.ics';
     gcalBtn.target = '_blank';
+  }
+
+  function toggleAcc(item) {
+    const isOpen = item.classList.contains('open');
+    document.querySelectorAll('.acc-item.open').forEach(i => i.classList.remove('open'));
+    if (!isOpen) item.classList.add('open');
   }
 
   function copyURL() {
     const input = document.getElementById('cal-url');
     const btn   = document.getElementById('copy-btn');
-    navigator.clipboard.writeText(input.value).then(() => {
+    navigator.clipboard.writeText('https://bit.ly/CalendarioMundialenDGO').then(() => {
       btn.textContent = '✓ Copiado';
       btn.classList.add('copied');
       setTimeout(() => {
