@@ -7,10 +7,10 @@ X-WR-CALNAME:Calendario Mundial 2026 - DIRECTV/DGO
 X-WR-TIMEZONE:UTC
 X-WR-CALDESC:Todos los partidos del Mundial FIFA 2026
 BEGIN:VEVENT
-UID:b00a6c80-2f9f-46ef-a7c8-643a139e6343@wc2026
+UID:88fa5ff7-d4d5-41d5-80ae-d42e6e1c6d8f@wc2026
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
-SUMMARY:🟥 🇲🇽 México vs 🇿🇦 Sudáfrica | Grupo A
+SUMMARY:🔴 🇲🇽 México vs 🇿🇦 Sudáfrica | Grupo A
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇲🇽 México vs 🇿🇦 Sudáfrica\n📋 Grupo A\n🏟️ Estadio Azteca\n📍 Ciudad de México, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 11/06/2026 16:00
 LOCATION:Estadio Azteca\, Ciudad de México, México
 CATEGORIES:Grupo A
@@ -19,10 +19,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3e27cb4a-2ef6-49f7-91b3-2642aacb5be4@wc2026
+UID:c8a4e09e-1c76-4d2d-a32a-740f500f40d6@wc2026
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
-SUMMARY:🟥 🇰🇷 Corea del Sur vs 🇨🇿 Chequia | Grupo A
+SUMMARY:🔴 🇰🇷 Corea del Sur vs 🇨🇿 Chequia | Grupo A
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇰🇷 Corea del Sur vs 🇨🇿 Chequia\n📋 Grupo A\n🏟️ Estadio Akron\n📍 Zapopan, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 11/06/2026 23:00
 LOCATION:Estadio Akron\, Zapopan, México
 CATEGORIES:Grupo A
@@ -31,10 +31,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c405c312-1a60-45e8-8118-0978c0bee3b7@wc2026
+UID:5118ebdf-ff81-49bf-ba28-93ec89d54b1f@wc2026
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
-SUMMARY:🟥 🇨🇿 Chequia vs 🇿🇦 Sudáfrica | Grupo A
+SUMMARY:🔴 🇨🇿 Chequia vs 🇿🇦 Sudáfrica | Grupo A
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇿 Chequia vs 🇿🇦 Sudáfrica\n📋 Grupo A\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/06/2026 13:00
 LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
 CATEGORIES:Grupo A
@@ -43,10 +43,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ad57c368-bb31-4cb3-89d9-3cf660e41e24@wc2026
+UID:4f5eff95-9014-4168-a5e8-3d82a83cddcd@wc2026
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
-SUMMARY:🟥 🇲🇽 México vs 🇰🇷 Corea del Sur | Grupo A
+SUMMARY:🔴 🇲🇽 México vs 🇰🇷 Corea del Sur | Grupo A
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇲🇽 México vs 🇰🇷 Corea del Sur\n📋 Grupo A\n🏟️ Estadio Akron\n📍 Zapopan, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/06/2026 22:00
 LOCATION:Estadio Akron\, Zapopan, México
 CATEGORIES:Grupo A
@@ -55,10 +55,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5b46bc78-d4d2-4539-ae35-25a7777b9c3a@wc2026
+UID:78f8d702-a98b-4671-8fc2-4d8f202d4bcf@wc2026
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:🟥 🇨🇿 Chequia vs 🇲🇽 México | Grupo A
+SUMMARY:🔴 🇨🇿 Chequia vs 🇲🇽 México | Grupo A
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇿 Chequia vs 🇲🇽 México\n📋 Grupo A\n🏟️ Estadio Azteca\n📍 Ciudad de México, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 22:00
 LOCATION:Estadio Azteca\, Ciudad de México, México
 CATEGORIES:Grupo A
@@ -67,10 +67,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3d348aeb-cf82-414e-890d-63787175b4c7@wc2026
+UID:48227b6d-b9e5-4145-ad1f-c025232dea21@wc2026
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SUMMARY:🟥 🇿🇦 Sudáfrica vs 🇰🇷 Corea del Sur | Grupo A
+SUMMARY:🔴 🇿🇦 Sudáfrica vs 🇰🇷 Corea del Sur | Grupo A
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇿🇦 Sudáfrica vs 🇰🇷 Corea del Sur\n📋 Grupo A\n🏟️ Estadio BBVA\n📍 Monterrey, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 22:00
 LOCATION:Estadio BBVA\, Monterrey, México
 CATEGORIES:Grupo A
@@ -79,10 +79,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:91abf7f2-0840-4774-a94b-0edbaad77729@wc2026
+UID:b850f735-3bcf-455b-8c06-c5038fdeb1d6@wc2026
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
-SUMMARY:🟥 🇨🇦 Canadá vs 🇧🇦 Bosnia-Herzegovina | Grupo B
+SUMMARY:🟠 🇨🇦 Canadá vs 🇧🇦 Bosnia-Herzegovina | Grupo B
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇦 Canadá vs 🇧🇦 Bosnia-Herzegovina\n📋 Grupo B\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 12/06/2026 16:00
 LOCATION:BMO Field\, Toronto, Canadá
 CATEGORIES:Grupo B
@@ -91,10 +91,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4369e41d-998d-470b-8c9d-6ddc0664e5b5@wc2026
+UID:a35b577d-b195-4671-b8db-4f90a77fb5dd@wc2026
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
-SUMMARY:🟥 🇶🇦 Qatar vs 🇨🇭 Suiza | Grupo B
+SUMMARY:🟠 🇶🇦 Qatar vs 🇨🇭 Suiza | Grupo B
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇶🇦 Qatar vs 🇨🇭 Suiza\n📋 Grupo B\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 13/06/2026 16:00
 LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
 CATEGORIES:Grupo B
@@ -103,10 +103,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:77e2cb4a-8516-42c7-9a34-4412d5ff4c92@wc2026
+UID:524a3de5-1f9c-4b90-b2ee-05e6f90177f9@wc2026
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
-SUMMARY:🟥 🇨🇭 Suiza vs 🇧🇦 Bosnia-Herzegovina | Grupo B
+SUMMARY:🟠 🇨🇭 Suiza vs 🇧🇦 Bosnia-Herzegovina | Grupo B
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇭 Suiza vs 🇧🇦 Bosnia-Herzegovina\n📋 Grupo B\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/06/2026 16:00
 LOCATION:SoFi Stadium\, Inglewood, EE.UU.
 CATEGORIES:Grupo B
@@ -115,10 +115,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:52d42a2d-662c-4b50-8820-5b1d1bf1bbcb@wc2026
+UID:40b5c68a-3951-489d-892b-969d1419f386@wc2026
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
-SUMMARY:🟥 🇨🇦 Canadá vs 🇶🇦 Qatar | Grupo B
+SUMMARY:🟠 🇨🇦 Canadá vs 🇶🇦 Qatar | Grupo B
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇦 Canadá vs 🇶🇦 Qatar\n📋 Grupo B\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 18/06/2026 19:00
 LOCATION:BC Place\, Vancouver, Canadá
 CATEGORIES:Grupo B
@@ -127,10 +127,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:934021eb-935f-4f7d-8892-701db46634ec@wc2026
+UID:886ca83c-a5ed-4cc8-9ce5-bae2c37cc10d@wc2026
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:🟥 🇨🇭 Suiza vs 🇨🇦 Canadá | Grupo B
+SUMMARY:🟠 🇨🇭 Suiza vs 🇨🇦 Canadá | Grupo B
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇭 Suiza vs 🇨🇦 Canadá\n📋 Grupo B\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 16:00
 LOCATION:BC Place\, Vancouver, Canadá
 CATEGORIES:Grupo B
@@ -139,10 +139,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:391c9907-5c82-4011-a90b-1d2b58587f55@wc2026
+UID:1a2be0ee-ba25-4b3c-b966-23ffdf39369b@wc2026
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SUMMARY:🟥 🇧🇦 Bosnia-Herzegovina vs 🇶🇦 Qatar | Grupo B
+SUMMARY:🟠 🇧🇦 Bosnia-Herzegovina vs 🇶🇦 Qatar | Grupo B
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇧🇦 Bosnia-Herzegovina vs 🇶🇦 Qatar\n📋 Grupo B\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 16:00
 LOCATION:Lumen Field\, Seattle, EE.UU.
 CATEGORIES:Grupo B
@@ -151,10 +151,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3e8668ba-5b04-4ca2-8dff-097073de3168@wc2026
+UID:9489e507-bd17-43bf-8593-2265fe28ca2f@wc2026
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
-SUMMARY:🟥 🇧🇷 Brasil vs 🇲🇦 Marruecos | Grupo C
+SUMMARY:🟡 🇧🇷 Brasil vs 🇲🇦 Marruecos | Grupo C
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇧🇷 Brasil vs 🇲🇦 Marruecos\n📋 Grupo C\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 13/06/2026 19:00
 LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
 CATEGORIES:Grupo C
@@ -163,10 +163,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4d907d44-adc8-468e-bfcc-5823eb1e9cb8@wc2026
+UID:5d044150-04b1-49a0-8b84-eb8889b80aad@wc2026
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
-SUMMARY:🟥 🇭🇹 Haití vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia | Grupo C
+SUMMARY:🟡 🇭🇹 Haití vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia | Grupo C
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇭🇹 Haití vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia\n📋 Grupo C\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 13/06/2026 22:00
 LOCATION:Gillette Stadium\, Foxborough, EE.UU.
 CATEGORIES:Grupo C
@@ -175,10 +175,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6ce1d3ec-7291-4187-8bd2-8dc597df8091@wc2026
+UID:a092c943-6115-4683-b1a0-356a1b1cde9d@wc2026
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-SUMMARY:🟥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇲🇦 Marruecos | Grupo C
+SUMMARY:🟡 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇲🇦 Marruecos | Grupo C
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇲🇦 Marruecos\n📋 Grupo C\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 19/06/2026 19:00
 LOCATION:Gillette Stadium\, Foxborough, EE.UU.
 CATEGORIES:Grupo C
@@ -187,10 +187,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d766506e-1c6e-4807-b6cc-62be2f4583ab@wc2026
+UID:9076f5c7-4350-4727-b769-526c6d507970@wc2026
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
-SUMMARY:🟥 🇧🇷 Brasil vs 🇭🇹 Haití | Grupo C
+SUMMARY:🟡 🇧🇷 Brasil vs 🇭🇹 Haití | Grupo C
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇧🇷 Brasil vs 🇭🇹 Haití\n📋 Grupo C\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 19/06/2026 21:30
 LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
 CATEGORIES:Grupo C
@@ -199,10 +199,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:72f8df03-023e-44ff-b2ea-428794c12199@wc2026
+UID:201da988-c67d-4ba8-8c97-148a042f3e33@wc2026
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SUMMARY:🟥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇧🇷 Brasil | Grupo C
+SUMMARY:🟡 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇧🇷 Brasil | Grupo C
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia vs 🇧🇷 Brasil\n📋 Grupo C\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 19:00
 LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
 CATEGORIES:Grupo C
@@ -211,10 +211,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9936884c-a137-44c7-8cf0-df531f15edda@wc2026
+UID:3caa3808-4c28-414b-a5d6-b453e4cdd860@wc2026
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SUMMARY:🟥 🇲🇦 Marruecos vs 🇭🇹 Haití | Grupo C
+SUMMARY:🟡 🇲🇦 Marruecos vs 🇭🇹 Haití | Grupo C
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇲🇦 Marruecos vs 🇭🇹 Haití\n📋 Grupo C\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 24/06/2026 19:00
 LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
 CATEGORIES:Grupo C
@@ -223,10 +223,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:560ce140-9f59-45e5-af4d-a0629048d511@wc2026
+UID:5e17c314-fcd3-4a7a-b8d3-e15e31585231@wc2026
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
-SUMMARY:🟥 🇺🇸 EE.UU. vs 🇵🇾 Paraguay | Grupo D
+SUMMARY:🟢 🇺🇸 EE.UU. vs 🇵🇾 Paraguay | Grupo D
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇺🇸 EE.UU. vs 🇵🇾 Paraguay\n📋 Grupo D\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 12/06/2026 22:00
 LOCATION:SoFi Stadium\, Inglewood, EE.UU.
 CATEGORIES:Grupo D
@@ -235,10 +235,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:693ce2e0-61e8-4d0a-bce4-405e74979494@wc2026
+UID:ef20d2df-50cb-4cb5-b728-e6d0c381be35@wc2026
 DTSTART:20260614T160000Z
 DTEND:20260614T180000Z
-SUMMARY:🟥 🇦🇺 Australia vs 🇹🇷 Türkiye | Grupo D
+SUMMARY:🟢 🇦🇺 Australia vs 🇹🇷 Türkiye | Grupo D
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇦🇺 Australia vs 🇹🇷 Türkiye\n📋 Grupo D\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 13:00
 LOCATION:BC Place\, Vancouver, Canadá
 CATEGORIES:Grupo D
@@ -247,10 +247,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:058a0713-a71f-41d5-ac57-39818a6e0147@wc2026
+UID:5d6159b9-dcb0-4857-b015-734e589e6854@wc2026
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-SUMMARY:🟥 🇺🇸 EE.UU. vs 🇦🇺 Australia | Grupo D
+SUMMARY:🟢 🇺🇸 EE.UU. vs 🇦🇺 Australia | Grupo D
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇺🇸 EE.UU. vs 🇦🇺 Australia\n📋 Grupo D\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 19/06/2026 16:00
 LOCATION:Lumen Field\, Seattle, EE.UU.
 CATEGORIES:Grupo D
@@ -259,10 +259,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ca7932ff-271f-492e-bfad-39e9d1fa33a7@wc2026
+UID:0427a3bd-e5c2-4dac-83a6-046d2f610cc7@wc2026
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-SUMMARY:🟥 🇹🇷 Türkiye vs 🇵🇾 Paraguay | Grupo D
+SUMMARY:🟢 🇹🇷 Türkiye vs 🇵🇾 Paraguay | Grupo D
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇹🇷 Türkiye vs 🇵🇾 Paraguay\n📋 Grupo D\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 20/06/2026 00:00
 LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
 CATEGORIES:Grupo D
@@ -271,10 +271,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:16472e12-a3b7-422b-a95b-8e0fdbec0a09@wc2026
+UID:fe3da915-6a0d-43c9-9f5b-5c2b54acffc6@wc2026
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:🟥 🇹🇷 Türkiye vs 🇺🇸 EE.UU. | Grupo D
+SUMMARY:🟢 🇹🇷 Türkiye vs 🇺🇸 EE.UU. | Grupo D
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇹🇷 Türkiye vs 🇺🇸 EE.UU.\n📋 Grupo D\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 23:00
 LOCATION:SoFi Stadium\, Inglewood, EE.UU.
 CATEGORIES:Grupo D
@@ -283,10 +283,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0f1a39d6-0213-4511-97e1-77b44b5b2ee9@wc2026
+UID:c43c9098-1fbf-4e10-b44e-fdc0fdec923a@wc2026
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SUMMARY:🟥 🇵🇾 Paraguay vs 🇦🇺 Australia | Grupo D
+SUMMARY:🟢 🇵🇾 Paraguay vs 🇦🇺 Australia | Grupo D
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇵🇾 Paraguay vs 🇦🇺 Australia\n📋 Grupo D\n🏟️ Levi's Stadium\n📍 Santa Clara, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 23:00
 LOCATION:Levi's Stadium\, Santa Clara, EE.UU.
 CATEGORIES:Grupo D
@@ -295,10 +295,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9e1a5d0e-fb8b-4ec7-926d-43946160c8f7@wc2026
+UID:a95222da-5f2c-4c0c-8148-93e51f3f8fda@wc2026
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
-SUMMARY:🟥 🇩🇪 Alemania vs 🇨🇼 Curazao | Grupo E
+SUMMARY:🔵 🇩🇪 Alemania vs 🇨🇼 Curazao | Grupo E
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇩🇪 Alemania vs 🇨🇼 Curazao\n📋 Grupo E\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 14:00
 LOCATION:NRG Stadium\, Houston, EE.UU.
 CATEGORIES:Grupo E
@@ -307,10 +307,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7c64295d-9f57-4823-81fa-a57c8990738a@wc2026
+UID:bdfc2e52-f731-4978-be56-a592bbc102a3@wc2026
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
-SUMMARY:🟥 🇨🇮 Costa de Marfil vs 🇪🇨 Ecuador | Grupo E
+SUMMARY:🔵 🇨🇮 Costa de Marfil vs 🇪🇨 Ecuador | Grupo E
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇮 Costa de Marfil vs 🇪🇨 Ecuador\n📋 Grupo E\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 20:00
 LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
 CATEGORIES:Grupo E
@@ -319,10 +319,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f9a19e7f-19a1-4e75-8da4-1ea3b20ba70f@wc2026
+UID:a180b389-7d09-4528-9ca9-d41a9801acd8@wc2026
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
-SUMMARY:🟥 🇩🇪 Alemania vs 🇨🇮 Costa de Marfil | Grupo E
+SUMMARY:🔵 🇩🇪 Alemania vs 🇨🇮 Costa de Marfil | Grupo E
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇩🇪 Alemania vs 🇨🇮 Costa de Marfil\n📋 Grupo E\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 20/06/2026 17:00
 LOCATION:BMO Field\, Toronto, Canadá
 CATEGORIES:Grupo E
@@ -331,10 +331,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ac9a05d1-2e82-49ab-aca4-fe93d18a821b@wc2026
+UID:d05b8665-0782-444d-91c1-02838d14f269@wc2026
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
-SUMMARY:🟥 🇪🇨 Ecuador vs 🇨🇼 Curazao | Grupo E
+SUMMARY:🔵 🇪🇨 Ecuador vs 🇨🇼 Curazao | Grupo E
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇪🇨 Ecuador vs 🇨🇼 Curazao\n📋 Grupo E\n🏟️ Arrowhead Stadium\n📍 Kansas City, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 20/06/2026 21:00
 LOCATION:Arrowhead Stadium\, Kansas City, EE.UU.
 CATEGORIES:Grupo E
@@ -343,10 +343,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cd31b2fb-d39e-4186-b745-118261ba4bc1@wc2026
+UID:aa6c76b2-8e25-4193-976a-2780712f1dc6@wc2026
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:🟥 🇨🇼 Curazao vs 🇨🇮 Costa de Marfil | Grupo E
+SUMMARY:🔵 🇨🇼 Curazao vs 🇨🇮 Costa de Marfil | Grupo E
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇼 Curazao vs 🇨🇮 Costa de Marfil\n📋 Grupo E\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 17:00
 LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
 CATEGORIES:Grupo E
@@ -355,10 +355,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6f385d13-c394-42f1-815d-4ad78d6c13c2@wc2026
+UID:ed906f27-258c-457a-be19-776cc1ea8ebe@wc2026
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SUMMARY:🟥 🇪🇨 Ecuador vs 🇩🇪 Alemania | Grupo E
+SUMMARY:🔵 🇪🇨 Ecuador vs 🇩🇪 Alemania | Grupo E
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇪🇨 Ecuador vs 🇩🇪 Alemania\n📋 Grupo E\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 17:00
 LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
 CATEGORIES:Grupo E
@@ -367,10 +367,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:33cb82af-accc-492c-9887-dd10f3418392@wc2026
+UID:621dc93d-0585-425d-b009-ebf217e14055@wc2026
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
-SUMMARY:🟥 🇳🇱 Países Bajos vs 🇯🇵 Japón | Grupo F
+SUMMARY:🟣 🇳🇱 Países Bajos vs 🇯🇵 Japón | Grupo F
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇳🇱 Países Bajos vs 🇯🇵 Japón\n📋 Grupo F\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 17:00
 LOCATION:AT&T Stadium\, Arlington, EE.UU.
 CATEGORIES:Grupo F
@@ -379,10 +379,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3901de71-0d51-4eee-840f-196e8b166acd@wc2026
+UID:ec1f355d-7307-4897-b08d-43171950629e@wc2026
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
-SUMMARY:🟥 🇸🇪 Suecia vs 🇹🇳 Túnez | Grupo F
+SUMMARY:🟣 🇸🇪 Suecia vs 🇹🇳 Túnez | Grupo F
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇸🇪 Suecia vs 🇹🇳 Túnez\n📋 Grupo F\n🏟️ Estadio BBVA\n📍 Monterrey, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 14/06/2026 23:00
 LOCATION:Estadio BBVA\, Monterrey, México
 CATEGORIES:Grupo F
@@ -391,10 +391,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:23f64e88-ce1d-4f34-8ed8-4240c3c397e8@wc2026
+UID:92bb125a-e1e6-41de-b7a8-0aec4ea8b864@wc2026
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-SUMMARY:🟥 🇹🇳 Túnez vs 🇯🇵 Japón | Grupo F
+SUMMARY:🟣 🇹🇳 Túnez vs 🇯🇵 Japón | Grupo F
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇹🇳 Túnez vs 🇯🇵 Japón\n📋 Grupo F\n🏟️ Estadio BBVA\n📍 Monterrey, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 01:00
 LOCATION:Estadio BBVA\, Monterrey, México
 CATEGORIES:Grupo F
@@ -403,10 +403,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d8cc9fff-79cb-4e84-8332-81010fdf0a77@wc2026
+UID:a7ebd240-f66a-4bb0-a3bf-5229e269bb8d@wc2026
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
-SUMMARY:🟥 🇳🇱 Países Bajos vs 🇸🇪 Suecia | Grupo F
+SUMMARY:🟣 🇳🇱 Países Bajos vs 🇸🇪 Suecia | Grupo F
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇳🇱 Países Bajos vs 🇸🇪 Suecia\n📋 Grupo F\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 20/06/2026 14:00
 LOCATION:NRG Stadium\, Houston, EE.UU.
 CATEGORIES:Grupo F
@@ -415,10 +415,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1cc431a3-e436-44d0-a054-df011ccf61a9@wc2026
+UID:b0d8abd7-0129-4ca3-80eb-618d7349291a@wc2026
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:🟥 🇯🇵 Japón vs 🇸🇪 Suecia | Grupo F
+SUMMARY:🟣 🇯🇵 Japón vs 🇸🇪 Suecia | Grupo F
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇯🇵 Japón vs 🇸🇪 Suecia\n📋 Grupo F\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 20:00
 LOCATION:AT&T Stadium\, Arlington, EE.UU.
 CATEGORIES:Grupo F
@@ -427,10 +427,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:99357f1c-afa4-4178-93f8-9df5aff027f9@wc2026
+UID:1d3f8594-9b65-4a2e-83e0-c579ee05e3cd@wc2026
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SUMMARY:🟥 🇹🇳 Túnez vs 🇳🇱 Países Bajos | Grupo F
+SUMMARY:🟣 🇹🇳 Túnez vs 🇳🇱 Países Bajos | Grupo F
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇹🇳 Túnez vs 🇳🇱 Países Bajos\n📋 Grupo F\n🏟️ Arrowhead Stadium\n📍 Kansas City, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 25/06/2026 20:00
 LOCATION:Arrowhead Stadium\, Kansas City, EE.UU.
 CATEGORIES:Grupo F
@@ -439,10 +439,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:07470143-8b84-4eda-8cbb-b2ab91964024@wc2026
+UID:da7ebc57-ffaf-41b9-8bba-e2cf66718f80@wc2026
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
-SUMMARY:🟥 🇧🇪 Bélgica vs 🇪🇬 Egipto | Grupo G
+SUMMARY:⚫ 🇧🇪 Bélgica vs 🇪🇬 Egipto | Grupo G
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇧🇪 Bélgica vs 🇪🇬 Egipto\n📋 Grupo G\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/06/2026 16:00
 LOCATION:Lumen Field\, Seattle, EE.UU.
 CATEGORIES:Grupo G
@@ -451,10 +451,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8bc13a76-b0c3-4a1e-8089-986643b2c438@wc2026
+UID:76ea2b39-17c4-47ce-9ffa-6419b52ad91d@wc2026
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
-SUMMARY:🟥 🇮🇷 Irán vs 🇳🇿 Nueva Zelanda | Grupo G
+SUMMARY:⚫ 🇮🇷 Irán vs 🇳🇿 Nueva Zelanda | Grupo G
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇮🇷 Irán vs 🇳🇿 Nueva Zelanda\n📋 Grupo G\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/06/2026 22:00
 LOCATION:SoFi Stadium\, Inglewood, EE.UU.
 CATEGORIES:Grupo G
@@ -463,10 +463,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bb6b6cbb-d628-4744-9ac7-394d79760423@wc2026
+UID:6839bd28-2874-475d-a665-18bc95a01385@wc2026
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
-SUMMARY:🟥 🇧🇪 Bélgica vs 🇮🇷 Irán | Grupo G
+SUMMARY:⚫ 🇧🇪 Bélgica vs 🇮🇷 Irán | Grupo G
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇧🇪 Bélgica vs 🇮🇷 Irán\n📋 Grupo G\n🏟️ SoFi Stadium\n📍 Inglewood, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 16:00
 LOCATION:SoFi Stadium\, Inglewood, EE.UU.
 CATEGORIES:Grupo G
@@ -475,10 +475,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4841db2a-52d8-488b-9b0c-5589a45c9edf@wc2026
+UID:e3bfd898-2cb9-4058-9384-b676be8c84b0@wc2026
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
-SUMMARY:🟥 🇳🇿 Nueva Zelanda vs 🇪🇬 Egipto | Grupo G
+SUMMARY:⚫ 🇳🇿 Nueva Zelanda vs 🇪🇬 Egipto | Grupo G
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇳🇿 Nueva Zelanda vs 🇪🇬 Egipto\n📋 Grupo G\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 22:00
 LOCATION:BC Place\, Vancouver, Canadá
 CATEGORIES:Grupo G
@@ -487,10 +487,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:8f5958d2-9606-4259-9ea7-be3425ca0a4a@wc2026
+UID:ad32e3f3-ae90-45d2-94eb-0e4633f80d05@wc2026
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:🟥 🇪🇬 Egipto vs 🇮🇷 Irán | Grupo G
+SUMMARY:⚫ 🇪🇬 Egipto vs 🇮🇷 Irán | Grupo G
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇪🇬 Egipto vs 🇮🇷 Irán\n📋 Grupo G\n🏟️ Lumen Field\n📍 Seattle, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 00:00
 LOCATION:Lumen Field\, Seattle, EE.UU.
 CATEGORIES:Grupo G
@@ -499,10 +499,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6eb14c89-0981-443a-bb33-87d27815df17@wc2026
+UID:32672fa0-dec2-42dc-9c0f-4625a5a42395@wc2026
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SUMMARY:🟥 🇳🇿 Nueva Zelanda vs 🇧🇪 Bélgica | Grupo G
+SUMMARY:⚫ 🇳🇿 Nueva Zelanda vs 🇧🇪 Bélgica | Grupo G
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇳🇿 Nueva Zelanda vs 🇧🇪 Bélgica\n📋 Grupo G\n🏟️ BC Place\n📍 Vancouver, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 00:00
 LOCATION:BC Place\, Vancouver, Canadá
 CATEGORIES:Grupo G
@@ -511,10 +511,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4adb9f65-48b9-4247-8bba-8233d0899e02@wc2026
+UID:530b27a2-3846-47ad-8914-ef2ccd4dcafd@wc2026
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
-SUMMARY:🟥 🇪🇸 España vs 🇨🇻 Cabo Verde | Grupo H
+SUMMARY:⚪ 🇪🇸 España vs 🇨🇻 Cabo Verde | Grupo H
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇪🇸 España vs 🇨🇻 Cabo Verde\n📋 Grupo H\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/06/2026 13:00
 LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
 CATEGORIES:Grupo H
@@ -523,10 +523,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:11f113b7-b9c0-49e7-b4c3-baf4f6a34094@wc2026
+UID:9774622b-b324-41aa-8be5-d3761bd24ab7@wc2026
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
-SUMMARY:🟥 🇸🇦 Arabia Saudita vs 🇺🇾 Uruguay | Grupo H
+SUMMARY:⚪ 🇸🇦 Arabia Saudita vs 🇺🇾 Uruguay | Grupo H
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇸🇦 Arabia Saudita vs 🇺🇾 Uruguay\n📋 Grupo H\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 15/06/2026 19:00
 LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
 CATEGORIES:Grupo H
@@ -535,10 +535,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:49c460b7-e648-4c9b-9ca2-58780b339431@wc2026
+UID:033ae6cc-1ca6-49de-b888-0da87a799af1@wc2026
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
-SUMMARY:🟥 🇪🇸 España vs 🇸🇦 Arabia Saudita | Grupo H
+SUMMARY:⚪ 🇪🇸 España vs 🇸🇦 Arabia Saudita | Grupo H
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇪🇸 España vs 🇸🇦 Arabia Saudita\n📋 Grupo H\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 13:00
 LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
 CATEGORIES:Grupo H
@@ -547,10 +547,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6fc62982-c424-4d9d-a27a-d9e9feac4bee@wc2026
+UID:69fb6e40-243a-4c9f-bbd2-9b5ba4401271@wc2026
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
-SUMMARY:🟥 🇺🇾 Uruguay vs 🇨🇻 Cabo Verde | Grupo H
+SUMMARY:⚪ 🇺🇾 Uruguay vs 🇨🇻 Cabo Verde | Grupo H
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇺🇾 Uruguay vs 🇨🇻 Cabo Verde\n📋 Grupo H\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 21/06/2026 19:00
 LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
 CATEGORIES:Grupo H
@@ -559,10 +559,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:486b15e7-7c30-4fa0-bbd5-6550998bccc3@wc2026
+UID:0de2d74b-c0c9-427e-bfd6-0d08c9f4d542@wc2026
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:🟥 🇨🇻 Cabo Verde vs 🇸🇦 Arabia Saudita | Grupo H
+SUMMARY:⚪ 🇨🇻 Cabo Verde vs 🇸🇦 Arabia Saudita | Grupo H
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇻 Cabo Verde vs 🇸🇦 Arabia Saudita\n📋 Grupo H\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 26/06/2026 21:00
 LOCATION:NRG Stadium\, Houston, EE.UU.
 CATEGORIES:Grupo H
@@ -571,10 +571,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c82b8ea7-d1df-4cef-b5c3-7f8d9f22bc5e@wc2026
+UID:59aa1b40-90db-4a36-bfac-046749b9a4a2@wc2026
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SUMMARY:🟥 🇺🇾 Uruguay vs 🇪🇸 España | Grupo H
+SUMMARY:⚪ 🇺🇾 Uruguay vs 🇪🇸 España | Grupo H
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇺🇾 Uruguay vs 🇪🇸 España\n📋 Grupo H\n🏟️ Estadio Akron\n📍 Zapopan, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 26/06/2026 21:00
 LOCATION:Estadio Akron\, Zapopan, México
 CATEGORIES:Grupo H
@@ -583,10 +583,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:480dd9e4-310e-4865-83dc-1b8c44ff1b1b@wc2026
+UID:463204e7-6184-47f7-8269-b3bb27035f3e@wc2026
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
-SUMMARY:🟥 🇫🇷 Francia vs 🇸🇳 Senegal | Grupo I
+SUMMARY:🟤 🇫🇷 Francia vs 🇸🇳 Senegal | Grupo I
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇫🇷 Francia vs 🇸🇳 Senegal\n📋 Grupo I\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 16/06/2026 16:00
 LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
 CATEGORIES:Grupo I
@@ -595,10 +595,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a4010434-50c6-43a0-b333-abd3bd8f13c4@wc2026
+UID:8d78f7a9-91e8-4bdd-8520-2576b4e865f5@wc2026
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
-SUMMARY:🟥 🇮🇶 Irak vs 🇳🇴 Noruega | Grupo I
+SUMMARY:🟤 🇮🇶 Irak vs 🇳🇴 Noruega | Grupo I
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇮🇶 Irak vs 🇳🇴 Noruega\n📋 Grupo I\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 16/06/2026 19:00
 LOCATION:Gillette Stadium\, Foxborough, EE.UU.
 CATEGORIES:Grupo I
@@ -607,10 +607,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:608ca18f-b1b3-475f-b3f9-64243525c1ae@wc2026
+UID:89c61619-a281-48ba-8527-77d32ec073f4@wc2026
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
-SUMMARY:🟥 🇫🇷 Francia vs 🇮🇶 Irak | Grupo I
+SUMMARY:🟤 🇫🇷 Francia vs 🇮🇶 Irak | Grupo I
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇫🇷 Francia vs 🇮🇶 Irak\n📋 Grupo I\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 22/06/2026 18:00
 LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
 CATEGORIES:Grupo I
@@ -619,10 +619,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ad453c17-df24-4a5e-aaef-10c2ca531736@wc2026
+UID:dce6e5f7-35f7-4f1a-8bb7-747f18e1c647@wc2026
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-SUMMARY:🟥 🇳🇴 Noruega vs 🇸🇳 Senegal | Grupo I
+SUMMARY:🟤 🇳🇴 Noruega vs 🇸🇳 Senegal | Grupo I
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇳🇴 Noruega vs 🇸🇳 Senegal\n📋 Grupo I\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 22/06/2026 21:00
 LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
 CATEGORIES:Grupo I
@@ -631,10 +631,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:842462d4-4a7c-4d89-b10d-fd15351ee0cb@wc2026
+UID:aa51dd6c-efa4-4c70-b44b-c605de24b9bb@wc2026
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:🟥 🇳🇴 Noruega vs 🇫🇷 Francia | Grupo I
+SUMMARY:🟤 🇳🇴 Noruega vs 🇫🇷 Francia | Grupo I
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇳🇴 Noruega vs 🇫🇷 Francia\n📋 Grupo I\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 26/06/2026 16:00
 LOCATION:Gillette Stadium\, Foxborough, EE.UU.
 CATEGORIES:Grupo I
@@ -643,10 +643,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4e53510a-4e1e-4fc4-a80e-7eb161583b7b@wc2026
+UID:3b650e78-449f-4ad7-9c34-465ba34fd78e@wc2026
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SUMMARY:🟥 🇸🇳 Senegal vs 🇮🇶 Irak | Grupo I
+SUMMARY:🟤 🇸🇳 Senegal vs 🇮🇶 Irak | Grupo I
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇸🇳 Senegal vs 🇮🇶 Irak\n📋 Grupo I\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 26/06/2026 16:00
 LOCATION:BMO Field\, Toronto, Canadá
 CATEGORIES:Grupo I
@@ -655,7 +655,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bfe2efbd-0d6f-4498-8a4e-4ddac49a6aa6@wc2026
+UID:bbf8958c-0375-4c2b-b613-0ad42e899bdd@wc2026
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 SUMMARY:🟥 🇦🇷 Argentina vs 🇩🇿 Argelia | Grupo J
@@ -667,7 +667,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:911f4eb0-fc93-4a1c-82e5-4dcb5d94714a@wc2026
+UID:ac168389-57b0-4f90-8bb6-11d78d348d6c@wc2026
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 SUMMARY:🟥 🇦🇹 Austria vs 🇯🇴 Jordania | Grupo J
@@ -679,7 +679,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4c52c428-ad72-4097-998d-5b146fe2eeae@wc2026
+UID:4463c7f9-7981-49f9-8722-183711e1df00@wc2026
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 SUMMARY:🟥 🇦🇷 Argentina vs 🇦🇹 Austria | Grupo J
@@ -691,7 +691,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:422bae43-a506-462f-9b74-2a696d50f093@wc2026
+UID:19c118fb-1649-4eb1-aa21-025226b7390d@wc2026
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 SUMMARY:🟥 🇯🇴 Jordania vs 🇩🇿 Argelia | Grupo J
@@ -703,7 +703,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6d7fbfdd-458e-46f5-b677-944753d2c9b7@wc2026
+UID:e46a210f-2e0e-4962-8383-36737406a4a3@wc2026
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🟥 🇩🇿 Argelia vs 🇦🇹 Austria | Grupo J
@@ -715,7 +715,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:64dc0f74-b369-4dff-9b4f-e2ee2e274239@wc2026
+UID:161766bf-5859-45e7-9628-fed16f7694e8@wc2026
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🟥 🇯🇴 Jordania vs 🇦🇷 Argentina | Grupo J
@@ -727,10 +727,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9d160a71-2140-4ad5-b004-361beeadb66a@wc2026
+UID:ad4eda5d-55b8-4d00-ab16-9f47ae2a8fab@wc2026
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
-SUMMARY:🟥 🇵🇹 Portugal vs 🇨🇩 Rep. Dem. Congo | Grupo K
+SUMMARY:🟧 🇵🇹 Portugal vs 🇨🇩 Rep. Dem. Congo | Grupo K
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇵🇹 Portugal vs 🇨🇩 Rep. Dem. Congo\n📋 Grupo K\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 14:00
 LOCATION:NRG Stadium\, Houston, EE.UU.
 CATEGORIES:Grupo K
@@ -739,10 +739,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ac873f88-6cf3-4cd8-b217-b2eac192ca70@wc2026
+UID:fec5a2dc-a6f1-4aa2-8094-001106c83336@wc2026
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
-SUMMARY:🟥 🇺🇿 Uzbekistán vs 🇨🇴 Colombia | Grupo K
+SUMMARY:🟧 🇺🇿 Uzbekistán vs 🇨🇴 Colombia | Grupo K
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇺🇿 Uzbekistán vs 🇨🇴 Colombia\n📋 Grupo K\n🏟️ Estadio Azteca\n📍 Ciudad de México, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 23:00
 LOCATION:Estadio Azteca\, Ciudad de México, México
 CATEGORIES:Grupo K
@@ -751,10 +751,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5425eaa6-c02c-4d67-88c0-60db85150ebd@wc2026
+UID:032e18ee-a94f-4e2d-aeba-2ec59e270bc1@wc2026
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
-SUMMARY:🟥 🇵🇹 Portugal vs 🇺🇿 Uzbekistán | Grupo K
+SUMMARY:🟧 🇵🇹 Portugal vs 🇺🇿 Uzbekistán | Grupo K
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇵🇹 Portugal vs 🇺🇿 Uzbekistán\n📋 Grupo K\n🏟️ NRG Stadium\n📍 Houston, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 14:00
 LOCATION:NRG Stadium\, Houston, EE.UU.
 CATEGORIES:Grupo K
@@ -763,10 +763,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:538ae44c-6eb3-4995-9fa2-b12cbffe7277@wc2026
+UID:b9440055-683e-4542-ab7b-96158c2982c9@wc2026
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
-SUMMARY:🟥 🇨🇴 Colombia vs 🇨🇩 Rep. Dem. Congo | Grupo K
+SUMMARY:🟧 🇨🇴 Colombia vs 🇨🇩 Rep. Dem. Congo | Grupo K
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇴 Colombia vs 🇨🇩 Rep. Dem. Congo\n📋 Grupo K\n🏟️ Estadio Akron\n📍 Zapopan, México\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 23:00
 LOCATION:Estadio Akron\, Zapopan, México
 CATEGORIES:Grupo K
@@ -775,10 +775,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d27cd6e9-78e4-4aae-8b5d-5c0b1ce6eaf4@wc2026
+UID:a26e1144-caab-4c2e-aad3-c76d11a18fd2@wc2026
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:🟥 🇨🇴 Colombia vs 🇵🇹 Portugal | Grupo K
+SUMMARY:🟧 🇨🇴 Colombia vs 🇵🇹 Portugal | Grupo K
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇴 Colombia vs 🇵🇹 Portugal\n📋 Grupo K\n🏟️ Hard Rock Stadium\n📍 Miami Gardens, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 20:30
 LOCATION:Hard Rock Stadium\, Miami Gardens, EE.UU.
 CATEGORIES:Grupo K
@@ -787,10 +787,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0d221aef-7b6a-4205-8f1e-c56d11adc8e7@wc2026
+UID:332182d6-6d27-469e-a888-197571b509ee@wc2026
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SUMMARY:🟥 🇨🇩 Rep. Dem. Congo vs 🇺🇿 Uzbekistán | Grupo K
+SUMMARY:🟧 🇨🇩 Rep. Dem. Congo vs 🇺🇿 Uzbekistán | Grupo K
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇨🇩 Rep. Dem. Congo vs 🇺🇿 Uzbekistán\n📋 Grupo K\n🏟️ Mercedes-Benz Stadium\n📍 Atlanta, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 20:30
 LOCATION:Mercedes-Benz Stadium\, Atlanta, EE.UU.
 CATEGORIES:Grupo K
@@ -799,10 +799,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1db71b3e-74a1-46aa-82bc-56a21dd936ba@wc2026
+UID:b9d939e8-65f3-42a8-a26f-3d1a10704b3b@wc2026
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-SUMMARY:🟥 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇭🇷 Croacia | Grupo L
+SUMMARY:🟦 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇭🇷 Croacia | Grupo L
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇭🇷 Croacia\n📋 Grupo L\n🏟️ AT&T Stadium\n📍 Arlington, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 17:00
 LOCATION:AT&T Stadium\, Arlington, EE.UU.
 CATEGORIES:Grupo L
@@ -811,10 +811,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9825b5a2-eaa6-48de-97f4-470f85ac3cfc@wc2026
+UID:c104fd89-7b78-4b45-af46-6b295d5d3076@wc2026
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
-SUMMARY:🟥 🇬🇭 Ghana vs 🇵🇦 Panamá | Grupo L
+SUMMARY:🟦 🇬🇭 Ghana vs 🇵🇦 Panamá | Grupo L
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇬🇭 Ghana vs 🇵🇦 Panamá\n📋 Grupo L\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 17/06/2026 20:00
 LOCATION:BMO Field\, Toronto, Canadá
 CATEGORIES:Grupo L
@@ -823,10 +823,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a92905e0-f30f-4e54-9c47-c56676bf233c@wc2026
+UID:5f0b6876-72b1-441f-b54e-6c8caf0a949c@wc2026
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
-SUMMARY:🟥 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇬🇭 Ghana | Grupo L
+SUMMARY:🟦 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇬🇭 Ghana | Grupo L
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra vs 🇬🇭 Ghana\n📋 Grupo L\n🏟️ Gillette Stadium\n📍 Foxborough, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 17:00
 LOCATION:Gillette Stadium\, Foxborough, EE.UU.
 CATEGORIES:Grupo L
@@ -835,10 +835,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9e1ffa09-b8f9-4778-9957-82e98233d549@wc2026
+UID:08b69de9-c287-4bfc-a216-6999caa19ad2@wc2026
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
-SUMMARY:🟥 🇵🇦 Panamá vs 🇭🇷 Croacia | Grupo L
+SUMMARY:🟦 🇵🇦 Panamá vs 🇭🇷 Croacia | Grupo L
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇵🇦 Panamá vs 🇭🇷 Croacia\n📋 Grupo L\n🏟️ BMO Field\n📍 Toronto, Canadá\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 23/06/2026 20:00
 LOCATION:BMO Field\, Toronto, Canadá
 CATEGORIES:Grupo L
@@ -847,10 +847,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4c1a14af-afea-4bfd-b535-fd78e288f301@wc2026
+UID:980aedfc-bf2b-4236-8add-47e2c95ff922@wc2026
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:🟥 🇵🇦 Panamá vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | Grupo L
+SUMMARY:🟦 🇵🇦 Panamá vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra | Grupo L
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇵🇦 Panamá vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n📋 Grupo L\n🏟️ MetLife Stadium\n📍 East Rutherford, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 18:00
 LOCATION:MetLife Stadium\, East Rutherford, EE.UU.
 CATEGORIES:Grupo L
@@ -859,10 +859,10 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:04d675c3-6751-4c13-8ba1-98cdad78dd1b@wc2026
+UID:a3f38c34-f7ab-467c-baee-edd914f19118@wc2026
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SUMMARY:🟥 🇭🇷 Croacia vs 🇬🇭 Ghana | Grupo L
+SUMMARY:🟦 🇭🇷 Croacia vs 🇬🇭 Ghana | Grupo L
 DESCRIPTION:🏆 FIFA MUNDIAL 2026\n──────────────────────────────\n⚽ 🇭🇷 Croacia vs 🇬🇭 Ghana\n📋 Grupo L\n🏟️ Lincoln Financial Field\n📍 Philadelphia, EE.UU.\n──────────────────────────────\n📺 Miralo en DGO: https://www.directvgo.com/ar\n📲 App iOS: https://apps.apple.com/ar/app/dgo/id1349939060\n📲 App Android: https://play.google.com/store/apps/details?id=com.directv.dtvlatam\n──────────────────────────────\n📺 Los 104 partidos del Mundial los ves en DSports.\n──────────────────────────────\n🇦🇷 Horario Argentina: 27/06/2026 18:00
 LOCATION:Lincoln Financial Field\, Philadelphia, EE.UU.
 CATEGORIES:Grupo L
@@ -871,7 +871,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5089ec50-9685-46da-b77d-3a7d613ca6b9@wc2026
+UID:135182a4-d008-4942-a4be-04e2017ed577@wc2026
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 SUMMARY:⚽ 2° Grupo A vs 2° Grupo B | Eliminatoria de 32
@@ -883,7 +883,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:04eee97a-fe61-4513-aa36-644c82ed36f8@wc2026
+UID:23daac74-0c87-466b-8e63-e6f9e20c5fff@wc2026
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 SUMMARY:⚽ 1° Grupo C vs 2° Grupo F | Eliminatoria de 32
@@ -895,7 +895,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a7a49f53-f6a6-4a30-a43e-766bc29c3033@wc2026
+UID:d3041d82-7c5d-499c-b4b3-6ab27487ff6b@wc2026
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 SUMMARY:⚽ 1° Grupo E vs Mejor 3° | Eliminatoria de 32
@@ -907,7 +907,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1c33b86f-5666-4f15-94fd-b155c753f132@wc2026
+UID:748f616d-7fa7-4126-9422-f85b8d9d9101@wc2026
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 SUMMARY:⚽ 1° Grupo F vs 2° Grupo C | Eliminatoria de 32
@@ -919,7 +919,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:33f92032-a9b2-4454-a1eb-f3b15666fe72@wc2026
+UID:1a78f4d6-6826-49a5-92cf-ddf0d560263b@wc2026
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 SUMMARY:⚽ 2° Grupo E vs 2° Grupo I | Eliminatoria de 32
@@ -931,7 +931,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:58a8b928-2bb2-4c60-8b94-287b3b0d52f0@wc2026
+UID:c5d96501-791d-456c-88a7-fb76453233fb@wc2026
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 SUMMARY:⚽ 1° Grupo I vs Mejor 3° | Eliminatoria de 32
@@ -943,7 +943,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:da482fbd-d896-4ab9-93c6-a0ef7f824c31@wc2026
+UID:e3f8b2d5-f102-4be7-9c69-ea74713716fc@wc2026
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
 SUMMARY:⚽ 1° Grupo A vs Mejor 3° | Eliminatoria de 32
@@ -955,7 +955,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1d3287a1-454b-490a-a4bc-57fd1e355dd1@wc2026
+UID:43127756-4427-4512-b423-e39a52ca2f3c@wc2026
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
 SUMMARY:⚽ 1° Grupo L vs Mejor 3° | Eliminatoria de 32
@@ -967,7 +967,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2ba957dd-790b-4abb-b32b-73aa1d5f4418@wc2026
+UID:6b77dc58-839d-4d66-b21a-cef1f918d8f5@wc2026
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
 SUMMARY:⚽ 1° Grupo G vs Mejor 3° | Eliminatoria de 32
@@ -979,7 +979,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:b29ed2cc-3a8f-4c82-a552-259be264962d@wc2026
+UID:894a8812-6773-47df-ae15-c217bd9caf81@wc2026
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
 SUMMARY:⚽ 1° Grupo D vs Mejor 3° | Eliminatoria de 32
@@ -991,7 +991,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5f2324f1-9e6f-452a-94cf-358199a0d325@wc2026
+UID:e3f9b9d5-fd12-4a26-9e97-7e342561eb6a@wc2026
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 SUMMARY:⚽ 1° Grupo H vs 2° Grupo J | Eliminatoria de 32
@@ -1003,7 +1003,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:2f6e5b05-5951-49dc-9d40-8e262d30ab6b@wc2026
+UID:379bb3d2-33c5-4fc9-b9e3-8b29da107c5e@wc2026
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
 SUMMARY:⚽ 2° Grupo K vs 2° Grupo L | Eliminatoria de 32
@@ -1015,7 +1015,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:86db3145-edb9-47b5-bd26-5ef4a4002d67@wc2026
+UID:7b7c9389-813d-4dba-aaae-92cb0a9ad7e5@wc2026
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 SUMMARY:⚽ 1° Grupo B vs Mejor 3° | Eliminatoria de 32
@@ -1027,7 +1027,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cd2f25ab-8a38-4d1f-b2df-69dcf7e10b46@wc2026
+UID:bbd3367e-47ef-4efa-ae04-233303349d48@wc2026
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 SUMMARY:⚽ 2° Grupo D vs 2° Grupo G | Eliminatoria de 32
@@ -1039,7 +1039,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f46e0bdb-f429-466d-8f70-87711705b7e3@wc2026
+UID:83c6c44a-ac64-4bf8-b5b0-3cd981a13b21@wc2026
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 SUMMARY:⚽ 1° Grupo J vs 2° Grupo H | Eliminatoria de 32
@@ -1051,7 +1051,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:74de6122-5812-48e4-abf8-0258936ce399@wc2026
+UID:2537bfbe-c6e0-461c-9c78-79500d0cfe73@wc2026
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 SUMMARY:⚽ 1° Grupo K vs Mejor 3° | Eliminatoria de 32
@@ -1063,7 +1063,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:30caade8-0429-4150-bc36-6a3861a27cd9@wc2026
+UID:a92feac0-7db1-4f37-9f55-4dabb2761e71@wc2026
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 SUMMARY:⚡ TBD vs TBD | Octavos de Final
@@ -1075,7 +1075,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:979dbef1-171c-4c3d-a588-e9a576994085@wc2026
+UID:421e412b-6fdc-4635-84fc-45ad3a54081d@wc2026
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 SUMMARY:⚡ TBD vs TBD | Octavos de Final
@@ -1087,7 +1087,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d5277864-51d1-4725-88b0-791f016f3d10@wc2026
+UID:ca7b959c-2364-4d82-bf14-85ae63a83d16@wc2026
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 SUMMARY:⚡ TBD vs TBD | Octavos de Final
@@ -1099,7 +1099,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ca89c94b-fe9c-4b94-a4f9-34030bb09124@wc2026
+UID:e30df201-ea87-4c40-98a5-97c4c551f543@wc2026
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
 SUMMARY:⚡ TBD vs TBD | Octavos de Final
@@ -1111,7 +1111,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:fbe7c692-49ad-4f67-a937-0cf0db9aa00a@wc2026
+UID:32c48f4d-718e-485e-b90e-042f52560278@wc2026
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 SUMMARY:⚡ TBD vs TBD | Octavos de Final
@@ -1123,7 +1123,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ecd64443-3130-40e5-9300-0cc97184115b@wc2026
+UID:3a76cb0f-eee8-4906-8a9f-f52c1d83b95c@wc2026
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 SUMMARY:⚡ TBD vs TBD | Octavos de Final
@@ -1135,7 +1135,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aaafea34-2a6e-47ae-ba06-5b45f7551c2b@wc2026
+UID:e112ef13-c750-463c-ae2b-9cd84d3fd60d@wc2026
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 SUMMARY:⚡ TBD vs TBD | Octavos de Final
@@ -1147,7 +1147,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cd6f281f-ed73-429a-8770-7928abdccc33@wc2026
+UID:493559ba-3f25-43f8-a72c-28ad4db1733b@wc2026
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 SUMMARY:⚡ TBD vs TBD | Octavos de Final
@@ -1159,7 +1159,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:60b97738-06d6-4688-9f26-4a5623e6b772@wc2026
+UID:3cdfe49a-0e5b-48a4-8395-81519e96584a@wc2026
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:🔥 TBD vs TBD | Cuartos de Final
@@ -1171,7 +1171,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:1479115b-ef2c-480a-bcab-a8167e36508e@wc2026
+UID:a4d61c77-3d66-4a1b-a5b9-fff3cc4a06c0@wc2026
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 SUMMARY:🔥 TBD vs TBD | Cuartos de Final
@@ -1183,7 +1183,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4c3af245-6c91-4a89-80f5-10ead0edef71@wc2026
+UID:3715bae5-03ed-4dc1-afaf-6e0ceb810dbb@wc2026
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 SUMMARY:🔥 TBD vs TBD | Cuartos de Final
@@ -1195,7 +1195,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:86f2ebaa-c4ae-4136-a5f0-58a42095ad43@wc2026
+UID:b20c7b7f-3c57-46ba-8352-bfe2a7f59824@wc2026
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 SUMMARY:🔥 TBD vs TBD | Cuartos de Final
@@ -1207,7 +1207,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e6e7cf09-13d4-439f-9e96-a5c7c3f4ceaf@wc2026
+UID:51a51afc-15d4-4f61-8745-6227286cc40a@wc2026
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 SUMMARY:💫 TBD vs TBD | Semifinal
@@ -1219,7 +1219,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:449e3e00-04ac-4e89-817b-3806b1e509f5@wc2026
+UID:710bd2ad-2593-4c55-9d9c-4d2519c5fc38@wc2026
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 SUMMARY:💫 TBD vs TBD | Semifinal
@@ -1231,7 +1231,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f8d022c7-0d02-4960-8d61-e27d3dd55a14@wc2026
+UID:518e7c8c-e131-46bf-bd55-80d161d72a63@wc2026
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 SUMMARY:🥉 TBD vs TBD | Tercer Puesto
@@ -1243,7 +1243,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:197c0e34-6b39-4c6c-9a88-215ceb9ab639@wc2026
+UID:bde094ac-ba30-457f-b610-e4581f64ca6a@wc2026
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 SUMMARY:🏆 TBD vs TBD | FINAL
